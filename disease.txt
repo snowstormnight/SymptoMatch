@@ -1,0 +1,2402 @@
+Disease: Fungal infection
+Symptoms: dischromic_patches, itching, nodal_skin_eruptions, skin_rash
+
+Disease: Allergy
+Symptoms: chills, continuous_sneezing, shivering, watering_from_eyes
+
+Disease: GERD (Gastroesophageal Reflux Disease)
+
+Symptoms: acidity, chest_pain, cough, stomach_pain, ulcers_on_tongue, vomiting
+Disease: Chronic cholestasis
+
+Symptoms: abdominal_pain, itching, loss_of_appetite, nausea, vomiting, yellowing_of_eyes, yellowish_skin
+Disease: Drug Reaction
+
+Symptoms: burning_micturition, itching, skin_rash, spotting_urination, stomach_pain
+Disease: Peptic ulcer disease
+
+Symptoms: abdominal_pain, indigestion, internal_itching, loss_of_appetite, passage_of_gases, vomiting
+Disease: AIDS (Acquired Immune Deficiency Syndrome)
+
+Symptoms: extra_marital_contacts, high_fever, muscle_wasting, patches_in_throat
+Disease: Diabetes
+
+Symptoms: fatigue, increased_appetite, increased_thirst, increased_urination, weight_loss
+Disease: Hypertension (High Blood Pressure)
+
+Symptoms: headache, chest_pain, dizziness, shortness_of_breath, blurred_vision
+Disease: Migraine
+
+Symptoms: headache, nausea, vomiting, sensitivity_to_light, blurred_vision
+Disease: Asthma
+
+Symptoms: chest_tightness, shortness_of_breath, wheezing, cough
+Disease: Cervical spondylosis
+
+Symptoms: neck_pain, shoulder_pain, dizziness, headache, tingling_arms
+Disease: Hypothyroidism
+
+Symptoms: fatigue, weight_gain, cold_intolerance, constipation, dry_skin
+Disease: Hyperthyroidism
+
+Symptoms: weight_loss, heat_intolerance, sweating, anxiety, palpitations
+Disease: Coronary Artery Disease
+
+Symptoms: chest_pain, breathlessness, fatigue, nausea, palpitations
+Disease: Rheumatoid arthritis
+
+Symptoms: joint_pain, swelling, stiffness, loss_of_function, fatigue
+Disease: Osteoarthritis
+
+Symptoms: joint_pain, stiffness, tenderness, loss_of_flexibility, grating_sensation
+Disease: Bronchitis
+
+Symptoms: coughing, mucus_production, fatigue, shortness_of_breath, slight_fever_and_chills
+Disease: Pneumonia
+
+Symptoms: cough_with_phlegm, fever, chills, shortness_of_breath
+Disease: Heart attack (Myocardial Infarction)
+
+Symptoms: chest_pain, nausea, indigestion, shortness_of_breath, cold_sweat
+Disease: Stroke
+
+Symptoms: sudden_weakness, confusion, trouble_speaking, loss_of_balance, headache
+Disease: Chronic Kidney Disease
+
+Symptoms: fatigue, swollen_extremities, nausea, shortness_of_breath, frequent_urination
+Disease: Anemia
+
+Symptoms: fatigue, weakness, pale_or_yellowish_skin, irregular_heartbeats, shortness_of_breath
+Disease: Tuberculosis
+
+Symptoms: coughing_for_three_or_more_weeks, coughing_up_blood, chest_pain, weight_loss, fatigue
+Disease: Hepatitis
+
+Symptoms: fatigue, flu-like_symptoms, dark_urine, pale_stool, abdominal_pain, loss_of_appetite, yellowing_of_skin_and_eyes
+Disease: Varicose veins
+
+Symptoms: enlarged_veins, pain, swelling, heaviness, skin_ulcers_near_ankle
+Disease: Influenza (Flu)
+
+Symptoms: fever, chills, muscle_aches, cough, congestion, runny_nose
+Disease: Gastroenteritis
+
+Symptoms: diarrhea, abdominal_cramps, nausea, vomiting, muscle_aches, fever
+Disease: Conjunctivitis (Pink eye)
+
+Symptoms: redness_in_eye, itching, tearing, discharge
+Disease: Depression
+
+Symptoms: persistent_sadness, loss_of_interest, weight_changes, sleep_disturbances, fatigue
+Disease: Anxiety
+
+Symptoms: excessive_worry, restlessness, difficulty_concentrating, irritability, sleep_issues
+Disease: Bipolar Disorder
+
+Symptoms: extreme_mood_swings, euphoria, irritability, risky_behavior, depressive_episodes
+Disease: Schizophrenia
+
+Symptoms: hallucinations, delusions, disorganized_thinking, social_withdrawal, lack_of_motivation
+Disease: Dementia
+
+Symptoms: memory_loss, difficulty_communicating, confusion, personality_changes, apathy
+Disease: Alzheimer's Disease
+
+Symptoms: memory_loss, difficulty_with_familiar_tasks, confusion_with_time_or_place, challenges_in_planning_or_solving_problems
+Disease: Parkinson's Disease
+
+Symptoms: tremors, slowed_movement, rigid_muscles, impaired_posture_and_balance, speech_changes
+Disease: Multiple Sclerosis
+
+Symptoms: fatigue, difficulty_walking, numbness_or_weakness, electric_shock_sensations, tremors
+Disease: Osteoporosis
+
+Symptoms: back_pain, loss_of_height_over_time, a_stooped_posture, bone_fractures_from_minimal_trauma
+Disease: Scoliosis
+
+Symptoms: uneven_shoulders, one_shoulder_blade_that_appears_more_prominent, uneven_waist, one_hip_higher_than_the_other
+Disease: Lung Cancer
+
+Symptoms: persistent_cough, coughing_up_blood, chest_pain, shortness_of_breath, weight_loss
+Disease: Breast Cancer
+
+Symptoms: new_lump_in_breast_or_underarm, thickening_or_swelling_of_part_of_the_breast, irritation_or_dimpling_of_breast_skin, nipple_discharge_other_than_breast_milk
+Disease: Prostate Cancer
+
+Symptoms: difficulty_urinating, decreased_force_in_the_stream_of_urine, blood_in_urine, erectile_dysfunction
+Disease: Leukemia
+
+Symptoms: fever_or_chills, persistent_fatigue, weakness, frequent_or_severe_infections, losing_weight_without_trying
+
+Disease: Lymphoma
+
+Symptoms: enlarged_lymph_nodes, fatigue, fever, night_sweats, weight_loss
+Disease: Melanoma
+
+Symptoms: a_large_brownish_spot_with_darker_speckles, a_mole_that_changes_in_color, size_or_feel_or_that_bleeds, a_small_lesion_with_an_irregular_border_and_portions_that_appear_red, white, blue_or_blue-black
+Disease: Colon Cancer
+
+Symptoms: a_change_in_bowel_habits, rectal_bleeding_or_blood_in_your_stool, persistent_abdominal_discomfort, a_feeling_that_your_bowel_doesn't_empty_completely, weakness_or_fatigue
+Disease: Kidney Stones
+
+Symptoms: severe_pain_in_the_side_and_back, pain_that_spreads_to_the_lower_abdomen_and_groin, pain_on_urination, pink, red_or_brown_urine, nausea_and_vomiting
+Disease: Arthritis
+
+Symptoms: joint_pain, stiffness, swelling, redness, decreased_range_of_motion
+Disease: Insomnia
+
+Symptoms: difficulty_falling_asleep, waking_up_during_the_night, waking_up_too_early, not_feeling_well-rested_after_a_night's_sleep
+Disease: Sinusitis
+
+Symptoms: nasal_inflammation, thick_discharge_from_the_nose, drainage_down_the_back_of_the_throat, nasal_obstruction_or_congestion
+
+Disease: Endometriosis
+
+Symptoms: painful_periods, pain_with_intercourse, pain_with_bowel_movements_or_urination, excessive_bleeding, infertility
+Disease: Fibromyalgia
+
+Symptoms: widespread_pain, fatigue, cognitive_difficulties, headaches, depression
+Disease: Polycystic Ovary Syndrome (PCOS)
+
+Symptoms: irregular_menstrual_cycles, excess_hair_growth, acne, obesity, infertility
+Disease: Urinary Tract Infection (UTI)
+
+Symptoms: burning_with_urination, frequent_urination, pelvic_pain, cloudy_urine, blood_in_urine
+Disease: Celiac Disease
+
+Symptoms: diarrhea, weight_loss, bloating, anemia, fatigue
+Disease: Crohn's Disease
+
+Symptoms: diarrhea, abdominal_pain, blood_in_stool, weight_loss, fatigue
+Disease: Ulcerative Colitis
+
+Symptoms: diarrhea_with_blood, abdominal_pain_and_cramps, rectal_pain, weight_loss, fatigue
+Disease: Irritable Bowel Syndrome (IBS)
+
+Symptoms: cramping, abdominal_pain, bloating, gas, diarrhea_or_constipation
+Disease: Hemorrhoids
+
+Symptoms: painless_bleeding_during_bowel_movements, itching_or_irritation_in_anal_region, pain_or_discomfort, swelling_around_anus
+Disease: Appendicitis
+
+Symptoms: abdominal_pain, appetite_loss, nausea, vomiting, fever
+Disease: Pancreatitis
+
+Symptoms: upper_abdominal_pain, nausea, vomiting, tenderness_when_touching_the_abdomen, fever
+Disease: Gallstones
+
+Symptoms: sudden_and_rapidly_intensifying_pain_in_the_upper_right_part_of_abdomen, back_pain_between_shoulder_blades, nausea_or_vomiting
+Disease: Cirrhosis
+
+Symptoms: fatigue, easy_bruising_and_bleeding, jaundice, itching_skin, fluid_accumulation_in_abdomen
+Disease: Hepatitis B
+
+Symptoms: abdominal_pain, dark_urine, fever, joint_pain, loss_of_appetite, nausea_and_vomiting, weakness_and_fatigue, yellowing_of_your_skin_and_the_whites_of_your_eyes
+Disease: Hepatitis C
+
+Symptoms: bleeding_easily, bruising_easily, fatigue, poor_appetite, jaundice, dark_colored_urine, itchy_skin, fluid_buildup_in_your_abdomen
+Disease: Non-alcoholic Fatty Liver Disease
+
+Symptoms: fatigue, pain_or_discomfort_in_the_upper_right_abdomen
+Disease: Osteomalacia (Soft Bones)
+
+Symptoms: bone_pain, muscle_weakness, difficulty_walking, numbness_around_mouth, numbness_of_arms_and_legs
+Disease: Rickets (Vitamin D Deficiency)
+
+Symptoms: delayed_growth, pain_in_spine, pelvis_and_legs, muscle_weakness, soft_skull_or_leg_bones
+Disease: Scurvy (Vitamin C Deficiency)
+
+Symptoms: weakness, anemia, gingivitis, skin_hemorrhages, spontaneous_bleeding
+Disease: Pellagra (Vitamin B3 Deficiency)
+
+Symptoms: dermatitis, diarrhea, dementia, sores_in_the_mouth
+Disease: Beriberi (Vitamin B1 Deficiency)
+
+Symptoms: difficulty_walking, loss_of_feeling_in_hands_and_feet, loss_of_muscle_function_or_paralysis_of_the_lower_legs, mental_confusion/speech_difficulties
+Disease: Hypervitaminosis A
+
+Symptoms: vision_changes, bone_swelling, poor_appetite, skin_dryness_and_peeling, nausea_and_vomiting
+Disease: Vitamin D Toxicity
+
+Symptoms: nausea, vomiting, weakness, frequent_urination, kidney_problems
+Disease: Meningitis
+
+Symptoms: sudden_high_fever, stiff_neck, severe_headache, nausea_or_vomiting, confusion_or_difficulty_concentrating
+Disease: Encephalitis
+
+Symptoms: headache, fever, aches_in_muscles_or_joints, fatigue_or_weakness, confusion, agitation_or_hallucinations
+Disease: Peripheral Neuropathy
+
+Symptoms: numbness_and_tingling_in_the_feet_or_hands, loss_of_balance, muscle_weakness, sensitivity_to_touch
+Disease: Carpal Tunnel Syndrome
+
+Symptoms: numbness, tingling, weakness, and_pain_in_the_hand_and_fingers
+Disease: Tendinitis
+
+Symptoms: pain_and_tenderness_just_outside_a_joint, swelling, warmth_in_the_affected_area
+Disease: Bursitis
+
+Symptoms: joint_pain_and_tenderness_when_you_press_around_the_joint, stiffness_and_aching_when_you_move_the_affected_joint, swelling, redness, or_warmth
+Disease: Gout
+
+Symptoms: intense_joint_pain, lingering_discomfort, inflammation_and_redness, limited_range_of_motion
+Disease: Osteomyelitis (Bone Infection)
+
+Symptoms: fever_or_chills, irritability_or_lethargy_in_young_children, pain_in_the_area_of_the_infection, swelling, warmth, and_redness_over_the_area_of_the_infection
+Disease: Lyme Disease
+
+Symptoms: fever, chills, fatigue, body_aches, headache, neck_stiffness, erythema_migrans_rash
+Disease: Rocky Mountain Spotted Fever
+
+Symptoms: high_fever, chills, severe_headache, muscle_aches, nausea_and_vomiting, confusion_or_other_neurological_changes, rash
+Disease: Rabies
+
+Symptoms: fever, headache, excess_salivation, muscle_spasms, paralysis, confusion
+Disease: Tetanus (Lockjaw)
+
+Symptoms: muscle_stiffness_and_spasms, particularly_in_your_jaw, stiffness_of_your_neck_muscles, difficulty_swallowing, stiffness_of_your_abdominal_muscles, painful_body_spasms
+Disease: Diphtheria
+
+Symptoms: sore_throat, hoarseness, swollen_glands_in_the_neck, difficulty_breathing, nasal_discharge
+Disease: Whooping Cough (Pertussis)
+
+Symptoms: severe_coughing_fits, whooping_sound_when_inhaling, vomiting_after_coughing, exhaustion_after_coughing_fits
+Disease: Poliomyelitis
+
+Symptoms: fever, sore_throat, headache, vomiting, fatigue, back_pain_or_stiffness, neck_pain_or_stiffness, pain_or_stiffness_in_the_arms_or_legs, muscle_weakness_or_tenderness
+Disease: Measles
+
+Symptoms: fever, dry_cough, runny_nose, sore_throat, inflamed_eyes, Koplik's_spots, skin_rash
+Disease: Mumps
+
+Symptoms: swollen_salivary_glands, fever, headache, muscle_aches, tiredness, loss_of_appetite
+Disease: Rubella (German Measles)
+
+Symptoms: fever, sore_throat, rash, headache, red_inflamed_eyes
+Disease: Chickenpox
+
+Symptoms: itchy_rash, fever, tiredness, loss_of_appetite, headache
+Disease: Shingles (Herpes Zoster)
+
+Symptoms: painful_rash, blisters, itching, fever, headache
+Disease: Mononucleosis (Mono)
+
+Symptoms: fatigue, sore_throat, fever, swollen_lymph_nodes_in_neck_and_armpits, swollen_tonsils, headache
+Disease: Hepatitis A
+
+Symptoms: fatigue, sudden_nausea_and_vomiting, abdominal_pain_or_discomfort, clay-colored_bowels, loss_of_appetite, low-grade_fever, dark_urine, joint_pain, yellowing_of_the_skin_and_the_whites_of_your_eyes
+Disease: Typhoid Fever
+
+Symptoms: high_fever, headache, abdominal_pain, constipation_or_diarrhea, rose-colored_spots_on_the_chest
+Disease: Cholera
+
+Symptoms: profuse_watery_diarrhea, vomiting, rapid_heart_rate, loss_of_skin_elasticity, dry_mucous_membranes, low_blood_pressure
+Disease: Plague
+
+Symptoms: sudden_onset_of_fever_and_chills, headache, muscle_aches, weakness, vomiting_and_nausea, painfully_swollen_lymph_nodes
+Disease: Yellow Fever
+
+Symptoms: fever, headache, jaundice, muscle_pain, nausea, vomiting, fatigue
+Disease: Dengue Fever
+- Symptoms: high_fever, severe_headache, pain_behind_the_eyes, joint_and_muscle_pain, fatigue, nausea, vomiting, skin_rash, mild_bleeding
+
+Disease: Zika Virus
+- Symptoms: fever, rash, joint_pain, conjunctivitis (red_eyes), muscle_pain, headache
+
+Disease: West Nile Virus
+- Symptoms: fever, headache, body_aches, joint_pains, vomiting, diarrhea, rash, fatigue
+
+Disease: Ebola
+- Symptoms: fever, severe_headache, muscle_pain, weakness, fatigue, diarrhea, vomiting, abdominal_pain, unexplained_hemorrhage
+
+Disease: Marburg Virus
+- Symptoms: high_fever, severe_headache, muscle_pain, malaise, watery_diarrhea, abdominal_pain_and_cramping, nausea_and_vomiting
+
+Disease: Lassa Fever
+- Symptoms: fever, weakness, headaches, vomiting, muscle_pains, bleeding_from_mucous_membranes
+
+Disease: MERS (Middle East Respiratory Syndrome)
+- Symptoms: fever, cough, shortness_of_breath, nausea, vomiting, diarrhea
+
+Disease: SARS (Severe Acute Respiratory Syndrome)
+- Symptoms: fever, dry_cough, headache, muscle_aches, difficulty_breathing, pneumonia
+
+Disease: H1N1 Influenza (Swine Flu)
+- Symptoms: fever, cough, sore_throat, runny_or_stuffy_nose, body_aches, headache, chills, fatigue
+
+Disease: Avian Influenza (Bird Flu)
+- Symptoms: cough, fever, sore_throat, muscle_aches, headache, shortness_of_breath
+
+Disease: Legionnaires' Disease
+- Symptoms: cough, shortness_of_breath, high_fever, muscle_aches, headaches
+
+Disease: Psittacosis (Parrot Fever)
+- Symptoms: fever, chills, headache, muscle_aches, dry_cough, shortness_of_breath
+
+Disease: Q Fever
+- Symptoms: high_fever, severe_headache, general_malaise, muscle_pains, confusion, sore_throat, chills, sweats, cough, nausea, vomiting, diarrhea, abdominal_pain, chest_pain
+
+Disease: Brucellosis
+- Symptoms: fever, sweats, malaise, anorexia, headache, pain_in_muscles, joint, and/or_back, fatigue
+
+Disease: Anthrax
+- Symptoms: skin_sores, swelling_around_the_sore, fever_and_chills, shortness_of_breath, nausea, coughing_up_blood, pain_when_swallowing
+
+Disease: Botulism
+- Symptoms: double_vision, blurred_vision, drooping_eyelids, slurred_speech, difficulty_swallowing, dry_mouth, muscle_weakness
+
+Disease: Tetralogy of Fallot
+- Symptoms: a_tet_spell (sudden_development_of_cyanosis, or_bluing_of_the_skin_due_to_lack_of_oxygen), difficulty_feeding, failure_to_gain_weight, fatigue_during_play_or_activity, irritability, prolonged_crying, and_a_heart_murmur
+
+Disease: Atrial Septal Defect
+- Symptoms: shortness_of_breath, especially_when_exercising, fatigue, swelling_of_legs, feet_or_abdomen, heart_palpitations_or_skipped_beats
+
+Disease: Ventricular Septal Defect
+- Symptoms: heart_murmurs, shortness_of_breath_at_feedings_or_exercise, poor_weight_gain, fatiguing_very_easily, frequent_respiratory_infections
+
+Disease: Coarctation of the Aorta
+- Symptoms: high_blood_pressure, headache, muscle_weakness, leg_cramps_or_cold_feet, nosebleeds, chest_pain
+
+Disease: Patent Ductus Arteriosus
+- Symptoms: fast_breathing, poor_eating, poor_growth, easily_tiring, sweating_with_crying_or_eating
+
+Disease: Hypoplastic Left Heart Syndrome
+- Symptoms: cyanosis, shortness_of_breath, poor_feeding, cold_hands_and_feet, lethargy
+
+Disease: Pulmonary Atresia
+- Symptoms: cyanosis, shortness_of_breath, fatigue, rapid_breathing, swelling_of_the_feet, ankles, or_face
+
+Disease: Transposition of the Great Arteries
+- Symptoms: cyanosis, difficulty_breathing, poor_feeding, poor_weight_gain
+
+Disease: Tricuspid Atresia
+- Symptoms: cyanosis, difficulty_breathing, tiredness, poor_feeding
+
+Disease: Total Anomalous Pulmonary Venous Return
+- Symptoms: cyanosis, rapid_breathing, poor_feeding, lethargy, poor_weight_gain
+
+Disease: Truncus Arteriosus
+- Symptoms: blue_colored_skin, shortness_of_breath, poor_feeding, poor_growth, tiredness, heart_murmurs
+
+Disease: Kawasaki Disease
+- Symptoms: high_fever, rash_on_back, chest_and_genitals, red_eyes_without_a_thick_discharge, red_dry_cracked_lips, swollen_tongue_with_a_white_coating_and_big_red_bumps, swollen_palms_and_soles_of_feet_and_redness, swollen_lymph_nodes
+
+Disease: Raynaud's Disease
+- Symptoms: cold_fingers_or_toes, color_changes_in_your_skin_in_response_to_cold_or_stress, numb_prickling_feeling_upon_warming_or_stress_relief
+
+Disease: Aortic Aneurysm
+- Symptoms: deep_constant_pain_in_your_abdomen_or_side_of_the_abdomen, back_pain, pulse_near_your_bellybutton
+
+Disease: Peripheral Artery Disease
+- Symptoms: painful_cramping_in_one_or_both_of_your_hips_thighs_or_calf_muscles_after_certain_activities, such_as_walking_or_climbing_stairs, leg_numbness_or_weakness, coldness_in_your_lower_leg_or_foot, sores_on_your_toes_feet_or_legs_that_won't_heal, change_in_the_color_of_your_legs, hair_loss_or_slower_hair_growth_on_your_feet_and_legs
+
+Disease: Deep Vein Thrombosis (DVT)
+- Symptoms: swelling_in_the_affected_leg, pain_in_your_leg, warmth_over_the_affected_area, red_or_discolored_skin_on_the_leg
+
+Disease: Varicose Eczema
+- Symptoms: itchy_skin, swollen_ankles, brown_discolored_skin, red_patches
+
+Disease: Lymphedema
+- Symptoms: swelling_of_part_or_all_of_your_arm_or_leg, including_fingers_or_toes, feeling_of_heaviness_or_tightness, restricted_range_of_motion, aching_or_discomfort, recurring_infections, hardening_and_thickening_of_the_skin
+
+Disease: Thrombophlebitis
+- Symptoms: warmth_over_the_affected_area, pain_or_tenderness_in_the_part_of_your_body_affected, red_or_darkened_skin_over_the_affected_area, swelling
+
+Disease: Vasculitis
+- Symptoms: fever, headache, fatigue, weight_loss, general_aches_and_pains, night_sweats, rash, nerve_problems_such_as_numbness_or_weakness
+
+Disease: Pericarditis
+- Symptoms: sharp_chest_pain, pain_in_your_left_shoulder_and_neck, pain_when_coughing_or_taking_deep_breaths, sitting_up_and_leaning_forward_tends_to_ease_the_pain, while_lying_down_and_breathing_deep_worsens_it
+
+Disease: Myocarditis
+- Symptoms: chest_pain, rapid_or_abnormal_heart_rhythms, shortness_of_breath, at_rest_or_during_physical_activity, fluid_retention_with_swelling_of_your_legs_ankles_and_feet, fatigue, other_signs_and_symptoms_of_a_viral_infection_such_as_a_headache_body_aches_joint_pains_fever_sore_throat_or_diarrhea
+
+Disease: Cardiomyopathy
+- Symptoms: breathlessness_with_exertion_or_even_at_rest, swelling_of_the_legs_ankles_and_feet, bloating_of_the_abdomen_due_to_fluid_buildup, cough_while_lying_down, fatigue, irregular_heartbeats_that_feel_rapid_pounding_or_fluttering, chest_pain
+
+Disease: Mitral Valve Prolapse
+- Symptoms: racing_heartbeat, shortness_of_breath_especially_when_lying_down, fatigue, dizziness, chest_pain_that's_not_caused_by_a_heart_attack_or_coronary_artery_disease
+
+Disease: Aortic Valve Stenosis
+- Symptoms: chest_pain, fainting, fatigue_while_exerting_yourself, shortness_of_breath, irregular_heartbeats, heart_murmurs
+
+Disease: Atrial Fibrillation
+- Symptoms: palpitations_which_are_sensations_of_a_racing_uncomfortable_irregular_heartbeat_or_a_flopping_in_your_chest, weakness, reduced_ability_to_exercise, fatigue, lightheadedness, dizziness, confusion, shortness_of_breath
+
+Disease: Ventricular Tachycardia
+- Symptoms: dizziness, fainting, shortness_of_breath, chest_pain, rapid_pulse_or_heart_palpitations
+
+Disease: Long QT Syndrome
+- Symptoms: fainting_during_physical_exertion_or_emotional_stress, seizures, unexplained_strokes_early_in_life
+
+Disease: Sudden Cardiac Arrest
+- Symptoms: sudden_collapse, no_pulse, no_breathing, loss_of_consciousness
+
+Disease: Wolff-Parkinson-White (WPW) Syndrome
+- Symptoms: palpitations, rapid_pulse, fainting, anxiety, chest_pain
+
+Disease: Brugada Syndrome
+- Symptoms: fainting, irregular_heartbeats_in_the_lower_chambers_of_the_heart, sudden_cardiac_arrest_in_some_cases
+
+Disease: Takotsubo Cardiomyopathy (Broken Heart Syndrome)
+- Symptoms: chest_pain, shortness_of_breath, arrhythmias, fainting
+
+Disease: Peripartum Cardiomyopathy
+- Symptoms: fatigue, feeling_of_heart_racing_or_skipping_beats, increased_nighttime_urination, shortness_of_breath_with_activity_and_while_lying_flat, swollen_ankles
+
+Disease: Hypertrophic Cardiomyopathy
+- Symptoms: chest_pain, especially_with_exertion, fainting, especially_during_or_just_after_exercise_or_exertion, sensation_of_rapid_fluttering_or_pounding_heartbeats, shortness_of_breath, especially_with_exertion_or_when_lying_down
+
+Disease: Myxoma (Heart Tumor)
+- Symptoms: difficulty_breathing_when_lying_flat, difficulty_breathing_when_asleep, chest_or_abdominal_pain, dizziness_or_fainting, palpitations
+
+Disease: Acne
+- Symptoms: whiteheads, blackheads, pimples, oily_skin, scarring
+
+Disease: Rosacea
+- Symptoms: facial_redness, swollen_red_bumps, eye_problems, enlarged_nose
+
+Disease: Psoriasis
+- Symptoms: red_patches_of_skin_covered_with_thick_silvery_scales, dry_cracked_skin_that_may_bleed, itching_soreness
+
+Disease: Eczema (Atopic Dermatitis)
+- Symptoms: itching, red_to_brownish_gray_patches, small_raised_bumps, thickened_cracked_scaly_skin
+
+Disease: Seborrheic Dermatitis
+- Symptoms: skin_flakes, red_skin, itching
+
+Disease: Impetigo
+- Symptoms: red_sores_on_face_around_nose_and_mouth, sores_burst_and_develop_honey_colored_crusts
+
+Disease: Cellulitis
+- Symptoms: red_swollen_tender_skin, pain_or_tenderness, warmth_over_the_area_of_infection, fever
+
+Disease: Vitiligo
+- Symptoms: loss_of_skin_color_in_patches, premature_whitening_or_graying_of_the_hair_on_your_scalp
+
+Disease: Scleroderma
+- Symptoms: skin_tightening, hardening, shiny_areas_on_the_skin
+
+Disease: Melasma
+- Symptoms: brown_patches_on_face, darkening_of_the_skin
+
+Disease: Lichen Planus
+- Symptoms: purplish_flat_bumps, itchy_rash, white_lacy_patches_in_the_mouth
+
+Disease: Keratosis Pilaris
+- Symptoms: small_bumps_on_arms_thighs_or_cheeks, dry_rough_skin, itching
+
+Disease: Hives (Urticaria)
+- Symptoms: red_itchy_welts, swelling_of_the_surface_of_the_skin
+
+Disease: Alopecia Areata
+- Symptoms: patchy_hair_loss, sudden_loosing_of_hair_from_scalp_and_body
+
+Disease: Scabies
+- Symptoms: intense_itching_at_night, pimple_like_rash, sores_from_scratching
+
+Disease: Ringworm
+- Symptoms: red_scaly_patch_or_bump, itchy, ring_shaped_rash, hair_loss
+
+Disease: Shingles (Herpes Zoster)
+- Symptoms: painful_rash, blisters, itching, fever, headache
+
+Disease: Lyme Disease
+- Symptoms: fever, chills, fatigue, body_aches, headache, neck_stiffness, erythema_migrans_rash
+
+Disease: Syphilis
+- Symptoms: small_sore, skin_rash, swollen_lymph_glands, sore_throat, hair_loss
+
+Disease: Gonorrhea
+- Symptoms: painful_urination, pus_like_discharge_from_penis_or_vagina, pain_in_abdomen, pelvic_pain
+
+Disease: Chlamydia
+- Symptoms: genital_discharge, burning_during_urination, pain_and_swelling_in_one_or_both_testicles, abdominal_pain
+
+Disease: Herpes Simplex
+- Symptoms: blisters, ulcers_around_genitals_or_rectum_or_mouth, pain_during_urination
+
+Disease: HIV/AIDS
+- Symptoms: fever, chills, rash, night_sweats, muscle_aches, sore_throat, fatigue, swollen_lymph_nodes
+
+Disease: Hepatitis B
+- Symptoms: abdominal_pain, dark_urine, fever, joint_pain, loss_of_appetite, nausea_and_vomiting, weakness_and_fatigue, yellowing_of_your_skin_and_the_whites_of_your_eyes
+
+Disease: Hepatitis C
+- Symptoms: bleeding_easily, bruising_easily, fatigue, poor_appetite, jaundice, dark_colored_urine, itchy_skin, fluid_buildup_in_your_abdomen
+
+Disease: Trichomoniasis
+- Symptoms: itching_burning_redness_or_soreness_of_the_genitals, discomfort_with_urination, clear_white_yellow_or_greenish_discharge
+
+Disease: Human Papillomavirus (HPV)
+- Symptoms: warts_on_genitals_mouth_or_throat, high_risk_types_can_lead_to_cancer_but_may_not_have_symptoms
+
+Disease: Genital Herpes
+- Symptoms: blisters_and_ulcers_on_genitals, itching, pain_during_urination
+
+Disease: Pelvic Inflammatory Disease (PID)
+- Symptoms: lower_abdominal_pain, fever, abnormal_discharge_with_foul_odor, painful_urination, painful_intercourse, irregular_menstrual_bleeding
+
+Disease: Candidiasis
+- Symptoms: itching_and_discomfort, white_discharge, redness_and_swelling_of_the_vulva
+
+Disease: Meningitis
+- Symptoms: sudden_high_fever, stiff_neck, severe_headache, nausea_or_vomiting, confusion_or_difficulty_concentrating
+
+Disease: Encephalitis
+- Symptoms: headache, fever, aches_in_muscles_or_joints, fatigue_or_weakness, confusion, agitation_or_hallucinations
+
+Disease: Poliomyelitis
+- Symptoms: fever, sore_throat, headache, vomiting, fatigue, back_pain_or_stiffness, neck_pain_or_stiffness, pain_or_stiffness_in_the_arms_or_legs, muscle_weakness_or_tenderness
+
+Disease: Rabies
+- Symptoms: fever, headache, excess_salivation, muscle_spasms, paralysis, confusion
+
+Disease: West Nile Virus
+- Symptoms: fever, headache, body_aches, joint_pains, vomiting, diarrhea, rash, fatigue
+
+Disease: Zika Virus
+- Symptoms: fever, rash, joint_pain, conjunctivitis (red_eyes), muscle_pain, headache
+
+Disease: Ebola
+- Symptoms: fever, severe_headache, muscle_pain, weakness, fatigue, diarrhea, vomiting, abdominal_pain, unexplained_hemorrhage
+
+Disease: Dengue Fever
+- Symptoms: high_fever, severe_headache, pain_behind_the_eyes, joint_and_muscle_pain, fatigue, nausea, vomiting, skin_rash, mild_bleeding
+
+Disease: Yellow Fever
+- Symptoms: fever, headache, jaundice, muscle_pain, nausea, vomiting, fatigue
+
+Disease: Tuberculosis
+- Symptoms: coughing_for_three_or_more_weeks, coughing_up_blood, chest_pain, weight_loss, fatigue
+
+Disease: Malaria
+- Symptoms: fever, chills, headache, nausea_and_vomiting, muscle_pain_and_fatigue, rapid_breathing_and_heart_rate
+
+Disease: Typhoid Fever
+- Symptoms: high_fever, headache, abdominal_pain, constipation_or_diarrhea, rose-colored_spots_on_the_chest
+
+Disease: Cholera
+- Symptoms: profuse_watery_diarrhea, vomiting, rapid_heart_rate, loss_of_skin_elasticity, dry_mucous_membranes, low_blood_pressure
+
+Disease: Leprosy (Hansen's Disease)
+- Symptoms: discolored_patches_of_skin, numbness, muscle_weakness, ulcers_on_the_soles_of_feet
+
+Disease: Anthrax
+- Symptoms: skin_sores, swelling_around_the_sore, fever_and_chills, shortness_of_breath, nausea, coughing_up_blood, pain_when_swallowing
+
+Disease: Tetanus (Lockjaw)
+- Symptoms: muscle_stiffness_and_spasms, particularly_in_your_jaw, stiffness_of_your_neck_muscles, difficulty_swallowing, stiffness_of_your_abdominal_muscles, painful_body_spasms
+
+Disease: Botulism
+- Symptoms: double_vision, blurred_vision, drooping_eyelids, slurred_speech, difficulty_swallowing, dry_mouth, muscle_weakness
+
+Disease: Sepsis
+- Symptoms: confusion_or_disorientation, shortness_of_breath, high_heart_rate, fever_or_shivering, extreme_pain_or_discomfort, sweaty_or_clammy_skin
+
+Disease: Osteoporosis
+- Symptoms: back_pain, loss_of_height_over_time, a_stooped_posture, bone_fractures_from_minimal_trauma
+
+Disease: Rickets (Vitamin D Deficiency)
+- Symptoms: delayed_growth, pain_in_spine_pelvis_and_legs, muscle_weakness, soft_skull_or_leg_bones
+
+Disease: Osteomalacia
+- Symptoms: bone_pain, muscle_weakness, difficulty_walking, numbness_around_mouth, numbness_of_arms_and_legs
+
+Disease: Paget's Disease of Bone
+- Symptoms: bone_pain, joint_pain, misshapen_bones, fractures, hearing_loss
+
+Disease: Arthritis (Osteoarthritis)
+- Symptoms: joint_pain, stiffness, tenderness, loss_of_flexibility, grating_sensation
+
+Disease: Rheumatoid Arthritis
+- Symptoms: tender_swollen_joints, joint_stiffness_that_is_usually_worse_in_the_mornings_and_after_inactivity, fatigue, fever, weight_loss
+
+Disease: Psoriatic Arthritis
+- Symptoms: joint_pain_and_stiffness, swelling_of_fingers_and_toes, foot_pain, lower_back_pain
+
+Disease: Gout
+- Symptoms: intense_joint_pain, lingering_discomfort, inflammation_and_redness, limited_range_of_motion
+
+Disease: Ankylosing Spondylitis
+- Symptoms: pain_and_stiffness_in_your_lower_back_and_hips, neck_pain_and_fatigue, over_time_can_cause_a_stooped_posture
+
+Disease: Systemic Lupus Erythematosus (SLE)
+- Symptoms: fatigue, joint_pain_stiffness_and_swelling, butterfly_shaped_rash_on_the_face, skin_lesions, shortness_of_breath, chest_pain, dry_eyes, headaches_confusion_and_memory_loss
+
+Disease: Sjogren's Syndrome
+- Symptoms: dry_eyes, dry_mouth, joint_pain_stiffness_and_swelling, swollen_salivary_glands, skin_rashes_or_dry_skin, vaginal_dryness, persistent_dry_cough
+
+Disease: Scleroderma
+- Symptoms: tightening_of_the_skin, joint_pain_and_stiffness, acid_reflux, dry_cough, shortness_of_breath, fatigue
+
+Disease: Polymyalgia Rheumatica
+- Symptoms: muscle_pain_and_stiffness_in_the_neck_shoulders_upper_arms_hips_and_thighs, fatigue, loss_of_appetite, fever, depression
+
+Disease: Polymyositis
+- Symptoms: muscle_weakness_in_the_shoulders_and_hips, trouble_rising_from_a_chair_or_reaching_for_high_objects, difficulty_swallowing, muscle_pain_and_stiffness, fatigue_after_walking_or_standing
+
+Disease: Dermatomyositis
+- Symptoms: muscle_weakness, distinctive_skin_rash, trouble_swallowing, lung_problems, fatigue
+
+Disease: Giant Cell Arteritis
+- Symptoms: severe_headaches, pain_and_tenderness_over_the_temples, double_vision_or_visual_loss, dizziness_or_balance_problems, jaw_pain_when_chewing
+
+Disease: Vasculitis
+- Symptoms: fever, fatigue, weight_loss, muscle_and_joint_pain, loss_of_appetite
+
+Disease: Raynaud's Phenomenon
+- Symptoms: cold_fingers_or_toes, color_changes_in_your_skin_in_response_to_cold_or_stress, numb_prickling_feeling_upon_warming_or_stress_relief
+
+Disease: Behcet's Disease
+- Symptoms: mouth_sores, genital_sores, eye_inflammation, skin_rashes_and_lesions, joint_pain
+
+Disease: Takayasu's Arteritis
+- Symptoms: arm_pain_with_use, reduced_pulse_in_arms, fatigue, weight_loss, fever, night_sweats
+
+Disease: Bursitis
+- Symptoms: joint_pain_and_tenderness_when_you_press_around_the_joint, stiffness_and_aching_when_you_move_the_affected_joint, swelling, warmth_over_the_affected_area
+
+Disease: Tendinitis
+- Symptoms: pain_often_described_as_a_dull_ache_around_the_affected_tendon, tenderness, mild_swelling
+
+Disease: Carpal Tunnel Syndrome
+- Symptoms: numbness_tingling_weakness_and_pain_in_the_hand_and_fingers, often_worsening_at_night
+
+Disease: Osteomyelitis
+- Symptoms: fever_or_chills, irritability_or_lethargy_in_young_children, pain_in_the_area_of_the_infection, swelling, warmth_and_redness_over_the_area_of_the_infection
+
+Disease: Septic Arthritis
+- Symptoms: intense_pain_in_the_infected_joint, swelling_and_redness_in_the_infected_joint, fever
+
+Disease: Hemophilia
+- Symptoms: prolonged_bleeding, large_or_deep_bruises, unusual_bleeding_after_vaccinations, pain_in_your_joints, blood_in_your_urine_or_stool
+
+Disease: Sickle Cell Anemia
+- Symptoms: anemia, episodes_of_pain, painful_swelling_of_hands_and_feet, frequent_infections, delayed_growth
+
+Disease: Thalassemia
+- Symptoms: fatigue_weakness, pale_or_yellowish_skin, facial_bone_deformities, slow_growth, abdominal_swelling
+
+Disease: Von Willebrand Disease
+- Symptoms: frequent_nosebleeds, easy_bruising, excessive_bleeding_from_an_injury, menorrhagia, blood_in_stools_or_urine
+
+Disease: Iron Deficiency Anemia
+- Symptoms: extreme_fatigue, weakness, pale_skin, chest_pain, fast_heartbeat_or_shortness_of_breath, headache, dizziness_or_lightheadedness, cold_hands_and_feet
+
+Disease: Pernicious Anemia
+- Symptoms: fatigue, weakness, pale_or_yellowish_skin, shortness_of_breath, dizziness, cold_hands_and_feet, cognitive_difficulties
+
+Disease: Aplastic Anemia
+- Symptoms: fatigue, shortness_of_breath, rapid_or_irregular_heart_rate, pale_skin, frequent_or_prolonged_infections, unexplained_or_easy_bruising, nosebleeds_and_bleeding_gums, prolonged_bleeding_from_cuts, skin_rash
+
+Disease: Hemolytic Anemia
+- Symptoms: fatigue, pale_skin, faintness, heart_palpitations, shortness_of_breath, dark_colored_urine, yellow_or_jaundiced_skin
+
+Disease: Polycythemia Vera
+- Symptoms: headache, dizziness, itchiness, particularly_following_a_warm_bath_or_shower, redness_of_your_skin, shortness_of_breath, difficulty_breathing_when_lying_down, a_feeling_of_fullness_or_bloating_in_your_left_upper_abdomen_due_to_an_enlarged_spleen
+
+Disease: Lymphoma
+- Symptoms: enlarged_lymph_nodes, fatigue, fever, night_sweats, weight_loss
+
+Disease: Leukemia
+- Symptoms: fever_or_chills, persistent_fatigue_weakness, frequent_or_severe_infections, losing_weight_without_trying, swollen_lymph_nodes_enlarged_liver_or_spleen, easy_bleeding_or_bruising, recurrent_nosebleeds, tiny_red_spots_in_your_skin, excessive_sweating_especially_at_night, bone_pain_or_tenderness
+
+Disease: Multiple Myeloma
+- Symptoms: bone_pain_especially_in_your_spine_or_chest, nausea, constipation, loss_of_appetite, mental_fogginess_or_confusion, fatigue, frequent_infections, weight_loss, weakness_or_numbness_in_your_legs, excessive_thirst
+
+Disease: Thrombocythemia
+- Symptoms: headache, dizziness_or_lightheadedness, chest_pain, weakness, numbness_or_tingling_of_the_hands_and_feet
+
+Disease: Myelodysplastic Syndromes
+- Symptoms: fatigue, shortness_of_breath, unusual_paleness_due_to_anemia, easy_bruising_or_bleeding, pinpoint_red_spots_under_the_skin_caused_by_bleeding, frequent_infections
+
+Disease: Hemochromatosis
+- Symptoms: joint_pain, abdominal_pain, fatigue, weakness, diabetes, loss_of_sex_drive, impotence, heart_failure, liver_failure
+
+Disease: Sarcoidosis
+- Symptoms: fatigue, fever, swollen_lymph_nodes, weight_loss, night_sweats, shortness_of_breath, persistent_dry_cough
+
+Disease: Polycystic Kidney Disease
+- Symptoms: high_blood_pressure, back_or_side_pain, headache, a_feeling_of_fullness_in_your_abdomen, increased_size_of_your_abdomen_due_to_enlarged_kidneys, blood_in_your_urine, kidney_stones, kidney_failure, urinary_tract_or_kidney_infections
+
+Disease: Urinary Tract Infection
+- Symptoms: a_strong_persistent_urge_to_urinate, a_burning_sensation_when_urinating, passing_frequent_small_amounts_of_urine, urine_that_appears_cloudy, urine_that_appears_red_bright_pink_or_cola_colored_a_sign_of_blood_in_the_urine, strong_smelling_urine, pelvic_pain_in_women
+
+Disease: Pyelonephritis
+- Symptoms: upper_back_and_side_pain, high_fever, shaking_and_chills, nausea, vomiting
+
+Disease: Glomerulonephritis
+- Symptoms: pink_or_cola_colored_urine_from_red_blood_cells_in_your_urine, foamy_urine_due_to_excess_protein, high_blood_pressure, fluid_retention_with_swelling_of_your_face_hands_feet_and_abdomen
+
+Disease: Kidney Stones
+- Symptoms: severe_pain_in_the_side_and_back_below_the_ribs, pain_that_radiates_to_the_lower_abdomen_and_groin, pain_that_comes_in_waves_and_fluctuates_in_intensity, pain_on_urination, pink_red_or_brown_urine, cloudy_or_foul_smelling_urine, nausea_and_vomiting, persistent_need_to_urinate, urinating_more_often_than_usual, fever_and_chills_if_an_infection_is_present
+
+Disease: Interstitial Cystitis
+- Symptoms: pain_in_your_pelvis_or_between_the_vagina_and_anus_in_women_pain_between_the_scrotum_and_anus_in_men, pain_during_sexual_intercourse, chronic_pelvic_pain, a_persistent_frequent_urgent_need_to_urinate
+
+Disease: Nephrotic Syndrome
+- Symptoms: severe_swelling, particularly_in_your_eyes_and_ankles_and_feet, foamy_urine, which_may_be_caused_by_excess_protein_in_your_urine, weight_gain_due_to_excess_fluid_retention
+
+Disease: Acute Kidney Failure
+- Symptoms: decreased_urine_output, fluid_retention_causing_swelling_in_your_legs_ankles_or_feet, shortness_of_breath, fatigue, confusion, nausea, weakness, irregular_heartbeat, chest_pain_or_pressure, seizures_or_coma_in_severe_cases
+
+Disease: Chronic Kidney Disease
+- Symptoms: nausea, vomiting, loss_of_appetite, fatigue_and_weakness, sleep_problems, changes_in_how_much_you_urinate, decreased_mental_sharpness, muscle_twitches_and_cramps, swelling_of_feet_and_ankles, persistent_itching, chest_pain_if_fluid_builds_up_around_the_lining_of_the_heart, shortness_of_breath_if_fluid_builds_up_in_the_lungs, high_blood_pressure_hypertension_that's_difficult_to_control
+
+Disease: Kidney Cancer
+- Symptoms: blood_in_your_urine, back_pain_just_below_the_ribs_that_doesn't_go_away, weight_loss, fatigue, intermittent_fever
+
+Disease: Bladder Cancer
+- Symptoms: blood_in_urine, frequent_urination, painful_urination, back_pain, pelvic_pain
+
+Disease: Prostate Cancer
+- Symptoms: trouble_urinating, decreased_force_in_the_stream_of_urine, blood_in_semen, discomfort_in_the_pelvic_area, bone_pain, erectile_dysfunction
+
+Disease: Erectile Dysfunction
+- Symptoms: trouble_getting_an_erection, trouble_keeping_an_erection, reduced_sexual_desire
+
+Disease: Benign Prostatic Hyperplasia (BPH)
+- Symptoms: frequent_or_urgent_need_to_urinate, increased_frequency_of_urination_at_night_nocturia, difficulty_starting_urination, weak_urine_stream_or_a_stream_that_stops_and_starts, dribbling_at_the_end_of_urination, inability_to_completely_empty_the_bladder
+
+Disease: Testicular Cancer
+- Symptoms: lump_or_enlargement_in_either_testicle, a_feeling_of_heaviness_in_the_scrotum, a_dull_ache_in_the_abdomen_or_groin, sudden_collection_of_fluid_in_the_scrotum, pain_or_discomfort_in_a_testicle_or_the_scrotum, enlargement_or_tenderness_of_the_breasts, back_pain
+
+Disease: Ovarian Cancer
+- Symptoms: abdominal_bloating_or_swelling, quickly_feeling_full_when_eating, weight_loss, discomfort_in_the_pelvis_area, changes_in_bowel_habits_such_as_constipation, a_frequent_need_to_urinate
+
+Disease: Cervical Cancer
+- Symptoms: vaginal_bleeding_after_intercourse_between_periods_or_after_menopause, watery_bloody_vaginal_discharge_that_may_be_heavy_and_have_a_foul_odor, pelvic_pain_or_pain_during_intercourse
+
+Disease: Uterine (Endometrial) Cancer
+- Symptoms: vaginal_bleeding_after_menopause, bleeding_between_periods, an_abnormal_watery_or_blood_tinged_discharge_from_your_vagina, pelvic_pain
+
+Disease: Breast Cancer
+- Symptoms: a_breast_lump_or_thickening_that_feels_different_from_the_surrounding_tissue, change_in_the_size_shape_or_appearance_of_a_breast, changes_to_the_skin_over_the_breast_such_as_dimpling, a_newly_inverted_nipple, peeling_scaling_crusting_or_flaking_of_the_pigmented_area_of_skin_surrounding_the_nipple_areola_or_breast_skin, redness_or_pitting_of_the_skin_over_your_breast_like_the_skin_of_an_orange
+
+Disease: Lung Cancer
+- Symptoms: a_new_cough_that_doesn't_go_away, coughing_up_blood_even_a_small_amount, shortness_of_breath, chest_pain, hoarseness, losing_weight_without_trying, bone_pain, headache
+
+Disease: Colon Cancer
+- Symptoms: a_change_in_your_bowel_habits_including_diarrhea_or_constipation_or_a_change_in_the_consistency_of_your_stool, rectal_bleeding_or_blood_in_your_stool, persistent_abdominal_discomfort_such_as_cramps_gas_or_pain, a_feeling_that_your_bowel_doesn't_empty_completely, weakness_or_fatigue, unexplained_weight_loss
+
+Disease: Rectal Cancer
+- Symptoms: rectal_bleeding, blood_in_stool, a_change_in_bowel_habits_such_as_narrower_than_normal_stools, a_feeling_that_your_bowel_doesn't_empty_completely, abdominal_pain, unexplained_weight_loss
+
+Disease: Leukemia
+- Symptoms: fever_or_chills, persistent_fatigue_weakness, frequent_or_severe_infections, losing_weight_without_trying, swollen_lymph_nodes_enlarged_liver_or_spleen, easy_bleeding_or_bruising, recurrent_nosebleeds, tiny_red_spots_in_your_skin, excessive_sweating_especially_at_night, bone_pain_or_tenderness
+
+Disease: Lymphoma
+- Symptoms: enlarged_lymph_nodes, fatigue, fever, night_sweats, weight_loss
+
+Disease: Melanoma
+- Symptoms: a_large_brownish_spot_with_darker_speckles, a_mole_that_changes_in_color_size_or_feel_or_that_bleeds, a_small_lesion_with_an_irregular_border_and_portions_that_appear_red_white_blue_or_blue_black, painful_lesions_that_itch_or_burn
+
+Disease: Non-Hodgkin's Lymphoma
+- Symptoms: enlarged_lymph_nodes, abdominal_pain_or_swelling, chest_pain_coughing_or_trouble_breathing, persistent_fatigue, fever, night_sweats, weight_loss
+
+Disease: Pancreatic Cancer
+- Symptoms: upper_abdominal_pain_that_radiates_to_your_back, loss_of_appetite_or_unintended_weight_loss, yellowing_of_your_skin_and_the_whites_of_your_eyes_jaundice, light_colored_stools, dark_colored_urine, itchy_skin, new_diagnosis_of_diabetes_or_existing_diabetes_that's_becoming_more_difficult_to_control, blood_clots, fatigue
+
+Disease: Prostate Cancer
+- Symptoms: trouble_urinating, decreased_force_in_the_stream_of_urine, blood_in_semen, discomfort_in_the_pelvic_area, bone_pain, erectile_dysfunction
+
+Disease: Stomach Cancer
+- Symptoms: feeling_bloated_after_eating, feeling_full_after_eating_small_amounts_of_food, heartburn, indigestion, nausea, stomach_pain, persistent_vomiting, unexplained_weight_loss
+
+Disease: Testicular Cancer
+- Symptoms: a_lump_or_enlargement_in_either_testicle, a_feeling_of_heaviness_in_the_scrotum, a_dull_ache_in_the_abdomen_or_groin, a_sudden_collection_of_fluid_in_the_scrotum, pain_or_discomfort_in_a_testicle_or_the_scrotum, enlargement_or_tenderness_of_the_breasts, back_pain
+
+Disease: Thyroid Cancer
+- Symptoms: a_lump_that_can_be_felt_through_the_skin_on_your_neck, changes_to_your_voice_including_increasing_hoarseness, difficulty_swallowing, pain_in_your_neck_and_throat, swollen_lymph_nodes_in_your_neck
+
+Disease: Adrenal Cancer
+- Symptoms: weight_gain, muscle_weakness, pink_or_purple_stretch_marks, hormonal_changes_in_women_that_might_cause_excess_facial_hair, hormonal_changes_in_men_that_might_cause_breast_enlargement_or_testicular_shrinkage
+
+Disease: Basal Cell Carcinoma
+- Symptoms: a_pearly_or_waxy_bump, a_flat_flesh_colored_or_brown_scar_like_lesion, bleeding_or_scabbing_sore_that_heals_and_returns
+
+Disease: Squamous Cell Carcinoma
+- Symptoms: a_firm_red_nodule, a_flat_sore_with_a_scaly_crust, a_new_sore_or_raised_area_on_an_old_scar_or_ulcer, a_rough_scaly_patch_on_your_lip_that_may_evolve_to_an_open_sore, a_red_sore_or_patch_inside_your_mouth, a_red_raised_patch_or_wartlike_sore_on_or_in_the_anus_or_on_your_genitals
+
+Disease: Merkle Cell Carcinoma
+- Symptoms: a_flesh_colored_or_bluish_red_nodule, often_on_your_face_head_or_neck, the_nodule_may_be_tender_but_is_usually_not_painful
+
+Disease: Kaposi's Sarcoma
+- Symptoms: dark_red_or_purple_spots_on_the_skin_or_mucous_membranes, lesions_on_the_skin_that_may_be_painless, swollen_lymph_nodes, gastrointestinal_problems, coughing_or_shortness_of_breath
+
+Disease: Meningioma
+- Symptoms: changes_in_vision_such_as_seeing_double_or_blurriness, headaches_that_are_worse_in_the_morning_or_headaches_that_progressively_worsen, hearing_loss_or_ringing_in_the_ears, memory_loss, loss_of_smell, seizures, weakness_in_your_arms_or_legs
+
+Disease: Glioblastoma
+- Symptoms: persistent_headaches, double_or_blurred_vision, vomiting, loss_of_appetite, changes_in_mood_and_personality, seizures, gradual_loss_of_movement_or_sensation_in_an_arm_or_leg, difficulty_with_balance
+
+Disease: Neuroblastoma
+- Symptoms: lumps_in_the_abdomen_or_neck_that_can_cause_swelling_or_pain, changes_in_bowel_habits_such_as_constipation, wheezing, chest_pain, changes_in_the_eyes_such_as_bulging_eyes_dark_circles_around_the_eyes_or_red_eyes, unexplained_fever_and_malaise, bone_pain
+
+Disease: Wilms Tumor
+- Symptoms: a_swelling_or_lump_in_the_abdomen, abdominal_pain, fever, nausea_or_vomiting, constipation, loss_of_appetite, shortness_of_breath, high_blood_pressure
+
+Disease: Retinoblastoma
+- Symptoms: a_white_color_in_the_center_circle_of_the_eye_pupil, eyes_that_seem_to_be_looking_in_different_directions, eye_redness, eye_swelling, reduced_vision
+
+Disease: Osteosarcoma
+- Symptoms: bone_pain, swelling_and_tenderness_near_the_affected_area, weakened_bones_leading_to_fractures, fatigue, unintended_weight_loss
+
+Disease: Ewing's Sarcoma
+- Symptoms: pain_where_the_tumor_is_located_which_may_be_worse_at_night_or_with_physical_activity, swelling_and_tenderness_near_the_affected_area, fever_without_any_known_cause, broken_bone_without_any_obvious_injury, unintended_weight_loss, fatigue
+
+Disease: Hodgkin's Lymphoma
+- Symptoms: painless_swelling_of_lymph_nodes_in_your_neck_armpits_or_groin, persistent_fatigue, fever_and_chills, night_sweats, unintended_weight_loss, severe_itching, increased_sensitivity_to_the_effects_of_alcohol_or_pain_in_your_lymph_nodes_after_drinking_alcohol
+
+Disease: Non-Hodgkin's Lymphoma
+- Symptoms: swollen_lymph_nodes_in_your_neck_armpits_or_groin, abdominal_pain_or_swelling, chest_pain_coughing_or_trouble_breathing, persistent_fatigue, fever, night_sweats, weight_loss
+
+Disease: Multiple Myeloma
+- Symptoms: bone_pain_especially_in_your_spine_or_chest, nausea, constipation, loss_of_appetite, mental_fogginess_or_confusion, fatigue, frequent_infections, weight_loss, weakness_or_numbness_in_your_legs, excessive_thirst
+
+Disease: Leukemia
+- Symptoms: fever_or_chills, persistent_fatigue_weakness, frequent_or_severe_infections, losing_weight_without_trying, swollen_lymph_nodes_enlarged_liver_or_spleen, easy_bleeding_or_bruising, recurrent_nosebleeds, tiny_red_spots_in_your_skin, excessive_sweating_especially_at_night, bone_pain_or_tenderness
+
+Disease: Lymphoma
+- Symptoms: enlarged_lymph_nodes, fatigue, fever, night_sweats, weight_loss
+
+Disease: Melanoma
+- Symptoms: a_large_brownish_spot_with_darker_speckles, a_mole_that_changes_in_color_size_or_feel_or_that_bleeds, a_small_lesion_with_an_irregular_border_and_portions_that_appear_red_white_blue_or_blue_black, painful_lesions_that_itch_or_burn
+
+Disease: Non-Hodgkin's Lymphoma
+- Symptoms: enlarged_lymph_nodes, abdominal_pain_or_swelling, chest_pain_coughing_or_trouble_breathing, persistent_fatigue, fever, night_sweats, weight_loss
+
+Disease: Pancreatic Cancer
+- Symptoms: upper_abdominal_pain_that_radiates_to_your_back, loss_of_appetite_or_unintended_weight_loss, yellowing_of_your_skin_and_the_whites_of_your_eyes_jaundice, light_colored_stools, dark_colored_urine, itchy_skin, new_diagnosis_of_diabetes_or_existing_diabetes_that's_becoming_more_difficult_to_control, blood_clots, fatigue
+
+Disease: Prostate Cancer
+- Symptoms: trouble_urinating, decreased_force_in_the_stream_of_urine, blood_in_semen, discomfort_in_the_pelvic_area, bone_pain, erectile_dysfunction
+
+Disease: Stomach Cancer
+- Symptoms: feeling_bloated_after_eating, feeling_full_after_eating_small_amounts_of_food, heartburn, indigestion, nausea, stomach_pain, persistent_vomiting, unexplained_weight_loss
+
+Disease: Testicular Cancer
+- Symptoms: a_lump_or_enlargement_in_either_testicle, a_feeling_of_heaviness_in_the_scrotum, a_dull_ache_in_the_abdomen_or_groin, a_sudden_collection_of_fluid_in_the_scrotum, pain_or_discomfort_in_a_testicle_or_the_scrotum, enlargement_or_tenderness_of_the_breasts, back_pain
+
+Disease: Thyroid Cancer
+- Symptoms: a_lump_that_can_be_felt_through_the_skin_on_your_neck, changes_to_your_voice_including_increasing_hoarseness, difficulty_swallowing, pain_in_your_neck_and_throat, swollen_lymph_nodes_in_your_neck
+
+Disease: Adrenal Cancer
+- Symptoms: weight_gain, muscle_weakness, pink_or_purple_stretch_marks, hormonal_changes_in_women_that_might_cause_excess_facial_hair, hormonal_changes_in_men_that_might_cause_breast_enlargement_or_testicular_shrinkage
+
+Disease: Basal Cell Carcinoma
+- Symptoms: a_pearly_or_waxy_bump, a_flat_flesh_colored_or_brown_scar_like_lesion, bleeding_or_scabbing_sore_that_heals_and_returns
+
+Disease: Squamous Cell Carcinoma
+- Symptoms: a_firm_red_nodule, a_flat_sore_with_a_scaly_crust, a_new_sore_or_raised_area_on_an_old_scar_or_ulcer, a_rough_scaly_patch_on_your_lip_that_may_evolve_to_an_open_sore, a_red_sore_or_patch_inside_your_mouth, a_red_raised_patch_or_wartlike_sore_on_or_in_the_anus_or_on_your_genitals
+
+Disease: Merkle Cell Carcinoma
+- Symptoms: a_flesh_colored_or_bluish_red_nodule, often_on_your_face_head_or_neck, the_nodule_may_be_tender_but_is_usually_not_painful
+
+Disease: Kaposi's Sarcoma
+- Symptoms: dark_red_or_purple_spots_on_the_skin_or_mucous_membranes, lesions_on_the_skin_that_may_be_painless, swollen_lymph_nodes, gastrointestinal_problems, coughing_or_shortness_of_breath
+
+Disease: Meningioma
+- Symptoms: changes_in_vision_such_as_seeing_double_or_blurriness, headaches_that_are_worse_in_the_morning_or_headaches_that_progressively_worsen, hearing_loss_or_ringing_in_the_ears, memory_loss, loss_of_smell, seizures, weakness_in_your_arms_or_legs, difficulty_with_balance
+
+Plantar Fasciitis
+- Symptoms: Sharp heel pain, especially with the first steps in the morning or after sitting for a long period.
+
+Ingrown Toenail
+- Symptoms: Pain and tenderness in one or both sides of the toenail, redness, swelling.
+
+Dehydration
+- Symptoms: Excessive thirst, dry mouth, decreased urine output, fatigue, dizziness.
+
+Heat Stroke
+- Symptoms: High body temperature, altered mental state or behavior, nausea, flushed skin, rapid breathing.
+
+Sunburn
+- Symptoms: Red, painful skin that feels hot to the touch, blisters, headache, fever, fatigue.
+
+Motion Sickness
+- Symptoms: Nausea, vomiting, pale skin, cold sweats, dizziness.
+
+Seasonal Affective Disorder (SAD)
+- Symptoms: Fatigue, depression during seasonal changes, loss of interest in activities, sleep issues.
+
+Frostbite
+- Symptoms: Cold skin, prickling feeling, numbness, red, white, bluish-white or grayish-yellow skin, hard or waxy-looking skin.
+
+Hypothermia
+- Symptoms: Shivering, slurred speech or mumbling, slow, shallow breathing, weakness, confusion.
+
+Heat Exhaustion
+- Symptoms: Heavy sweating, weakness, cold, pale and clammy skin, fainting, vomiting.
+
+Lactose Intolerance
+- Symptoms: Diarrhea, bloating, gas, abdominal cramps after consuming dairy products.
+
+Food Poisoning
+- Symptoms: Nausea, vomiting, abdominal cramps, diarrhea, fever, dehydration.
+
+Contact Dermatitis
+- Symptoms: Red rash, itching, dry, cracked, scaly skin, bumps and blisters, swelling, tenderness.
+
+Carpal Tunnel Syndrome
+- Symptoms: Numbness, tingling in your thumb, index and middle fingers, weakness in your hand and difficulty holding things.
+
+Sciatica
+- Symptoms: Lower back pain that extends through the hip and leg, numbness, tingling, muscle weakness.
+
+Muscle Strain
+- Symptoms: Pain, swelling, muscle spasms, limited ability to move the muscle.
+
+Whiplash
+- Symptoms: Neck pain, stiffness, headaches at the base of the skull, dizziness, blurred vision.
+
+Conjunctivitis (Pink Eye)
+- Symptoms: Redness in one or both eyes, itchiness, gritty feeling, discharge that forms a crust during the night.
+
+Blepharitis
+- Symptoms: Watery eyes, red eyes, a gritty, burning sensation in the eye, eyelid swelling, sensitivity to light.
+
+Cataracts
+- Symptoms: Clouded, blurred or dim vision, increasing difficulty with vision at night, sensitivity to light and glare.
+
+Glaucoma
+- Symptoms: Patchy blind spots in your side or central vision, tunnel vision in the advanced stages, eye pain, nausea, red eyes, blurred vision.
+
+Dry Eye Syndrome
+- Symptoms: Stinging, scratchy and uncomfortable eyes, feeling like something is in your eyes, redness, sensitivity to light.
+
+Ear Infection
+- Symptoms: Ear pain, difficulty hearing, fluid drainage from ear, headache, fever.
+
+Tinnitus
+- Symptoms: Ringing, buzzing, roaring, clicking or hissing sounds in the ear.
+
+Sinusitis
+- Symptoms: Nasal inflammation, thick, discolored discharge from the nose, drainage down the back of the throat, nasal obstruction or congestion.
+
+Common Cold
+- Symptoms: Runny or stuffy nose, sore throat, cough, congestion, slight body aches or a mild headache, sneezing, low-grade fever.
+
+Flu (Influenza)
+- Symptoms: Fever, cough, sore throat, runny or stuffy nose, muscle or body aches, headaches, fatigue.
+
+Bronchitis
+- Symptoms: Cough, production of mucus, fatigue, slight fever and chills, chest discomfort.
+
+Pneumonia
+- Symptoms: Chest pain when breathing or coughing, confusion or changes in mental awareness, cough with phlegm, fatigue, fever, sweating and shaking chills.
+
+Asthma
+- Symptoms: Shortness of breath, chest tightness or pain, trouble sleeping caused by shortness of breath, coughing or wheezing attacks.
+
+Hay Fever (Allergic Rhinitis)
+- Symptoms: Sneezing, itchy nose, eyes or roof of the mouth, runny, stuffy nose, watery, red or swollen eyes.
+
+Hives (Urticaria)
+- Symptoms: Red, raised, itchy welts on the skin's surface, welts that vary in size, change shape, and appear and fade repeatedly.
+
+Eczema (Atopic Dermatitis)
+- Symptoms: Itching, redness, dry skin, cracks behind the ears or on the hands, rough patches on the skin.
+
+Psoriasis
+- Symptoms: Red patches of skin covered with thick, silvery scales, dry, cracked skin that may bleed, itching, burning, soreness.
+
+Shingles (Herpes Zoster)
+- Symptoms: Pain, burning, numbness or tingling, sensitivity to touch, a red rash that begins a few days after the pain, fluid-filled blisters that break open and crust over.
+
+Oral Thrush
+- Symptoms: Creamy white lesions on your tongue, inner cheeks, sometimes on the roof of your mouth, gums and tonsils, slightly raised lesions with a cottage cheese appearance.
+
+Periodontitis
+- Symptoms: Swollen, red, tender, or bleeding gums, pain when chewing, poor tooth alignment, receding gums or longer appearing teeth.
+
+Dental Cavities
+- Symptoms: Toothache, spontaneous pain or pain that occurs without any apparent cause, tooth sensitivity, visible holes or pits in your teeth.
+
+Gingivitis
+- Symptoms: Swollen or puffy gums, dark red gums, gums that bleed easily when you brush or floss.
+
+Temporomandibular Joint Disorders (TMJ)
+- Symptoms: Pain or tenderness of your jaw, pain in one or both of the temporomandibular joints, aching pain in and around your ear, difficulty chewing or pain while chewing.
+
+Migraine
+- Symptoms: Pain typically on one side of the head, a pulsating, throbbing sensation, sensitivity to light and sound, nausea and vomiting.
+
+Cluster Headaches
+- Symptoms: Severe burning and piercing pain, usually around or behind one eye or on the side of the head, restlessness, excessive tearing, redness in one eye.
+
+Tension Headaches
+- Symptoms: Dull, aching head pain, sensation of tightness or pressure across your forehead or on the sides and back of your head, tenderness on your scalp, neck, and shoulder muscles.
+
+Sinus Headaches
+- Symptoms: Deep and constant pain in your cheekbones, forehead, or the bridge of your nose, pain that intensifies with sudden head movements or straining, nasal discharge, feeling of fullness in your ears, fever.
+
+Iron Deficiency Anemia
+- Symptoms: Fatigue, pale skin, weakness, shortness of breath, dizziness, strange cravings for non-nutritive substances, like ice, dirt, or starch.
+
+Vitamin B12 Deficiency
+- Symptoms: Fatigue, weakness, constipation, loss of appetite, weight loss, poor memory, soreness of the mouth or tongue.
+
+Vitamin D Deficiency
+- Symptoms: Getting sick or infected often, fatigue and tiredness, bone and back pain, depression, impaired wound healing, bone loss, hair loss, muscle pain.
+
+Insomnia
+- Symptoms: Difficulty falling asleep at night, waking up during the night, waking up too early, not feeling well-rested after a night's sleep.
+
+Sleep Apnea
+- Symptoms: Loud snoring, episodes of breathing cessation during sleep, abrupt awakenings accompanied by shortness of breath, awakening with a dry mouth or sore throat, morning headache.
+
+Restless Legs Syndrome (RLS)
+- Symptoms: Uncomfortable sensations in the legs and an irresistible urge to move them, symptoms that get worse at night, relief with movement.
+
+Narcolepsy
+- Symptoms: Excessive daytime sleepiness, sudden loss of muscle tone, sleep paralysis, changes in rapid eye movement (REM) sleep, hallucinations.
+
+Gout
+- Symptoms: Intense joint pain, lingering discomfort, inflammation and redness, limited range of motion.
+
+Osteoarthritis
+- Symptoms: Pain, tenderness, stiffness, loss of flexibility, grating sensation, bone spurs.
+
+Rheumatoid Arthritis
+- Symptoms: Tender, warm, swollen joints, joint stiffness that is usually worse in the mornings and after inactivity, fatigue, fever, and loss of appetite.
+
+Fibromyalgia
+- Symptoms: Widespread pain, fatigue, cognitive difficulties, headaches, depression.
+
+Lupus
+- Symptoms: Fatigue, joint pain, rash, and fever. Can affect the skin, joints, kidneys, brain, and other organs.
+
+Scoliosis
+- Symptoms: Uneven shoulders or waist, one hip higher than the other, leaning to one side.
+
+Osteoporosis
+- Symptoms: Back pain, loss of height over time, a stooped posture, bone fractures from minimal trauma.
+
+Celiac Disease
+- Symptoms: Diarrhea, bloating, gas, abdominal pain, anemia, skin rash, mouth ulcers.
+
+Irritable Bowel Syndrome (IBS)
+- Symptoms: Cramping, abdominal pain, bloating, gas, diarrhea or constipation, or both.
+
+Crohn's Disease
+- Symptoms: Diarrhea, fever, fatigue, abdominal pain and cramping, blood in your stool, mouth sores.
+
+Ulcerative Colitis
+- Symptoms: Diarrhea, often with blood or pus, abdominal pain and cramping, rectal pain, weight loss.
+
+Hemorrhoids
+- Symptoms: Painful swelling or a lump near the anus, anal itching, bleeding during bowel movements, pain or discomfort.
+
+Diverticulitis
+- Symptoms: Abdominal pain, fever, nausea, a change in bowel habits.
+
+Heartburn
+- Symptoms: A burning pain or discomfort that may move from your stomach to your abdomen or chest, or even up into your throat.
+
+Constipation
+- Symptoms: Fewer than three bowel movements a week, hard, dry or lumpy stools, difficulty or pain when passing stools.
+
+Diarrhea
+- Symptoms: Loose, watery stools, abdominal cramps, abdominal pain, fever, bloating.
+
+Peptic Ulcer
+- Symptoms: Burning stomach pain, heartburn, nausea, bloating, or belching.
+
+Gastroesophageal Reflux Disease (GERD)
+- Symptoms: Heartburn, regurgitation of food or sour liquid, difficulty swallowing, coughing, chest pain.
+
+Gastritis
+- Symptoms: Nausea or recurrent upset stomach, abdominal bloating and pain, vomiting, indigestion.
+
+Gallstones
+- Symptoms: Sudden and rapidly intensifying pain in the upper right portion of your abdomen, back pain between your shoulder blades, nausea or vomiting.
+
+Pancreatitis
+- Symptoms: Upper abdominal pain, nausea, vomiting, tenderness when touching the abdomen.
+
+Hepatitis
+- Symptoms: Fatigue, sudden nausea and vomiting, abdominal pain or discomfort, especially on the upper right side beneath your lower ribs (by your liver), clay-colored bowel movements, loss of appetite, low-grade fever, dark urine, joint pain, yellowing of the skin and the whites of your eyes (jaundice).
+
+Urinary Tract Infection (UTI)
+- Symptoms: A strong, persistent urge to urinate, a burning sensation when urinating, passing frequent, small amounts of urine.
+
+Kidney Stones
+- Symptoms: Severe pain in the side and back, below the ribs, pain that radiates to the lower abdomen and groin, pain on urination, pink, red or brown urine.
+
+Kidney Infection (Pyelonephritis)
+- Symptoms: High fever, chills and shaking, pain in the side, back, or groin, frequent urination, nausea and vomiting.
+
+Bladder Infection
+- Symptoms: Pain or burning during urination, frequent urination, cloudy or strong-smelling urine, pelvic pain.
+
+Prostatitis
+- Symptoms: Difficulty urinating, painful urination, pain in the groin, pelvic area, or genitals, flu-like symptoms.
+
+Overactive Bladder
+- Symptoms: A sudden, strong need to urinate immediately, frequent urination, waking up at night to urinate (nocturia).
+
+Interstitial Cystitis
+- Symptoms: Chronic pelvic pain, pain between the vagina and anus in women, pain between the scrotum and anus in men (perineum), frequent, painful urination.
+
+Pneumonia
+- Symptoms: Cough with phlegm or pus, fever, chills, and difficulty breathing.
+
+Bronchitis
+- Symptoms: Coughing up thickened mucus, shortness of breath, wheezing, chest discomfort.
+
+Pleurisy
+- Symptoms: Sharp chest pain that worsens during breathing, shortness of breath.
+
+Asthma
+- Symptoms: Shortness of breath, chest tightness, wheezing, coughing, especially at night or early in the morning.
+
+Emphysema
+- Symptoms: Shortness of breath, especially during physical activities, wheezing, chest tightness, chronic cough, mucus production.
+
+Chronic Obstructive Pulmonary Disease (COPD)
+- Symptoms: Shortness of breath, especially during physical activities, wheezing, chest tightness, chronic cough with mucus, frequent respiratory infections.
+
+Pulmonary Edema
+- Symptoms: Extreme shortness of breath or difficulty breathing (dyspnea) that worsens when lying down, a feeling of suffocating or drowning, wheezing or gasping for breath, cold, clammy skin, anxiety, restlessness, a sense of apprehension, a cough that produces frothy sputum that may be tinged with blood, a rapid, irregular heartbeat (palpitations).
+
+Pulmonary Embolism
+- Symptoms: Shortness of breath, chest pain that may become worse when you breathe deeply or cough, cough that may produce bloody or blood-streaked sputum.
+
+Tuberculosis
+- Symptoms: Cough lasting three or more weeks, coughing up blood, chest pain, or pain with breathing or coughing, unintentional weight loss, fatigue, fever, night sweats, chills, loss of appetite.
+
+Cystic Fibrosis
+- Symptoms: Persistent cough that produces thick mucus (sputum), wheezing, breathlessness, exercise intolerance, repeated lung infections, inflamed nasal passages or a stuffy nose.
+
+Lung Cancer
+- Symptoms: A new cough that doesn't go away, changes in a chronic cough or "smoker's cough", coughing up blood, even a small amount, shortness of breath, chest pain, wheezing, hoarseness, losing weight without trying, bone pain, headache.
+
+Sleep Apnea
+- Symptoms: Loud snoring, episodes of breathing cessation during sleep, abrupt awakenings accompanied by shortness of breath, awakening with a dry mouth or sore throat, morning headache, difficulty staying asleep (insomnia), excessive daytime sleepiness (hypersomnia), attention problems, irritability.
+
+Narcolepsy
+- Symptoms: Excessive daytime sleepiness (EDS), sudden loss of muscle tone (cataplexy), sleep paralysis, changes in rapid eye movement (REM) sleep, hallucinations.
+
+Insomnia
+- Symptoms: Difficulty falling asleep at night, waking up during the night, waking up too early, not feeling well-rested after a night's sleep, daytime tiredness or sleepiness, irritability, depression or anxiety, difficulty paying attention, focusing on tasks or remembering, increased errors or accidents, ongoing worries about sleep.
+
+Restless Legs Syndrome (RLS)
+- Symptoms: Uncomfortable sensations in the legs and an irresistible urge to move them, symptoms that get worse at night or when you're resting, relief with movement, such as stretching, walking, or flexing the legs, symptoms that are temporarily relieved by activity and return when the activity stops.
+
+Allergic Rhinitis (Hay Fever)
+- Symptoms: Sneezing, itching of the nose, eyes, or roof of the mouth, runny, stuffy nose, watery, red, or swollen eyes (conjunctivitis).
+
+Food Allergy
+- Symptoms: Tingling in the mouth, swelling of the lips, tongue, face, or throat, hives, anaphylaxis.
+
+Insect Sting Allergy
+- Symptoms: A large area of swelling (edema) at the sting site, itching or hives all over the body, cough, chest tightness, wheezing or shortness of breath, anaphylaxis.
+
+Drug Allergy
+- Symptoms: Hives, rash, fever, swelling, shortness of breath, wheezing, runny nose, itchy, watery eyes, anaphylaxis.
+
+Atopic Dermatitis (Eczema)
+- Symptoms: Itching, redness, dry skin, cracks behind the ears or on the hands, rough patches on the skin.
+
+Psoriatic Arthritis
+- Symptoms: Joint pain, stiffness, and swelling, psoriasis skin symptoms, nail changes, eye inflammation.
+
+Raynaud's Disease
+- Symptoms: Cold fingers or toes, color changes in your skin in response to cold or stress, numbness or tingling.
+
+Sjögren's Syndrome
+- Symptoms: Dry eyes, dry mouth, joint pain, swelling and stiffness, swollen salivary glands, skin rashes, dry skin, persistent dry cough.
+
+Canker Sores
+- Symptoms: Small, shallow lesions on the soft tissues in your mouth or at the base of your gums, painful sores in the mouth, tingling or burning sensation before the sores appear.
+
+Cold Sores (Herpes Labialis)
+- Symptoms: Blistering around lips, mouth, and gums, tingling and itching near the affected area, painful fluid-filled blisters.
+
+Oral Cancer
+- Symptoms: A sore that doesn't heal, a lump or thickening of the skin or lining of the mouth, a white or reddish patch on the inside of the mouth, loose teeth, poor fit of dentures, tongue pain, jaw pain or stiffness, difficult or painful swallowing.
+
+Strep Throat
+- Symptoms: Sore throat, pain when swallowing, red and swollen tonsils, sometimes with white patches or streaks of pus, tiny red spots on the area at the back of the roof of the mouth, swollen, tender lymph nodes in your neck, fever, headache, rash, nausea or vomiting, especially in younger children, body aches.
+
+Laryngitis
+- Symptoms: Hoarseness, weak voice or voice loss, tickling sensation and rawness in your throat, sore throat, dry throat, dry cough.
+
+Tonsillitis
+- Symptoms: Red, swollen tonsils, white or yellow coating or patches on the tonsils, sore throat, difficult or painful swallowing, fever, enlarged, tender glands (lymph nodes) in the neck, a scratchy, muffled or throaty voice, bad breath, stomachache, particularly in younger children, stiff neck, headache.
+
+Salivary Gland Infection
+- Symptoms: Pain, tenderness, and redness in the area of a salivary gland, fever, chills, pus draining into the mouth, dry mouth, bad taste in the mouth, swelling of the face or neck.
+
+Pericoronitis
+- Symptoms: Swelling and redness around an impacted wisdom tooth, pain, difficulty biting or chewing, sometimes discharge of pus and a bad taste in the mouth if the area is infected.
+
+Dental Abscess
+- Symptoms: Severe, persistent, throbbing toothache, sensitivity to hot and cold temperatures, sensitivity to the pressure of chewing or biting, fever, swelling in your face or cheek, tender, swollen lymph nodes under your jaw or in your neck, sudden rush of foul-smelling and foul-tasting, salty fluid in your mouth and pain relief if the abscess ruptures, difficulty breathing or swallowing.
+
+Periodontal Disease
+- Symptoms: Bad breath that won't go away, red or swollen gums, tender or bleeding gums, painful chewing, loose teeth, sensitive teeth, receding gums or longer appearing teeth.
+
+Bruxism (Teeth Grinding)
+- Symptoms: Teeth grinding or clenching, which may be loud enough to wake up your sleep partner, teeth that are flattened, fractured, chipped, or loose, worn tooth enamel, exposing deeper layers of your tooth, increased tooth pain or sensitivity, tired or tight jaw muscles, or a locked jaw that won't open or close completely, jaw, neck or face pain or soreness, pain that feels like an earache, though it's actually not a problem with your ear, dull headache starting in the temples, damage from chewing on the inside of your cheek, sleep disruption.
+
+TMJ Disorders
+- Symptoms: Pain or tenderness of your jaw, pain in one or both of the temporomandibular joints, aching pain in and around your ear, difficulty chewing or pain while chewing, aching facial pain, locking of the joint, making it difficult to open or close your mouth.
+
+Oral Lichen Planus
+- Symptoms: Lacy-white lesions in the mouth, which may be accompanied by or appear as red, swollen tissues, painful sores and ulcers in the mouth, discomfort or burning sensation in the mouth.
+
+Oral Thrush
+- Symptoms: Creamy white lesions on your tongue, inner cheeks, and sometimes on the roof of your mouth, gums and tonsils, slightly raised lesions with a cottage cheese-like appearance, redness, burning or soreness that may be severe enough to cause difficulty eating or swallowing, slight bleeding if the lesions are rubbed or scraped, cracking and redness at the corners of your mouth, a cottony feeling in your mouth, loss of taste.
+
+Aphthous Ulcers (Canker Sores)
+- Symptoms: Small, shallow ulcers that appear in the mouth and often make eating and talking uncomfortable, pain or tingling a day or two before the sores actually appear.
+
+Leukoplakia
+- Symptoms: Thick, white patches on the gums, the inside of the cheeks, the bottom of the mouth and, sometimes, the tongue, these patches can't be scraped off.
+
+Oropharyngeal Cancer
+- Symptoms: A sore throat that doesn't go away, a constant cough, pain or difficulty swallowing, a lump in the back of the mouth, throat or neck, a change in voice, ear pain, dramatic weight loss.
+
+Gingivitis
+- Symptoms: Swollen or puffy gums, dark red gums, gums that bleed easily when you brush or floss, bad breath, receding gums, tender gums.
+
+Tongue Cancer
+- Symptoms: A red or white patch on the tongue that won't go away, a sore throat that doesn't go away, a sore spot (ulcer) or lump on the tongue that doesn't heal, pain when swallowing, numbness in the mouth that won't go away, unexplained bleeding from the tongue (that is not caused by biting your tongue or other injury), pain in the ear (rare).
+
+Osteonecrosis of the Jaw
+- Symptoms: Pain, swelling, and infection of the gums and jaw, loosening of the teeth, poor healing of the gums, numbness or a feeling of heaviness in the jaw, drainage, exposure of the jawbone.
+
+Dysphagia
+- Symptoms: Pain while swallowing (odynophagia), inability to swallow, sensation of food getting stuck in your throat or chest or behind your breastbone (sternum), drooling, hoarseness, bringing food back up (regurgitation), frequent heartburn, food or stomach acid backing up into your throat, unexpectedly losing weight, coughing or gagging when swallowing.
+
+Esophageal Cancer
+- Symptoms: Difficulty swallowing (dysphagia), weight loss without trying, chest pain, pressure or burning, worsening indigestion or heartburn, coughing or hoarseness.
+
+Barrett's Esophagus
+- Symptoms: Frequent heartburn, difficulty swallowing food, less commonly, chest pain.
+
+Esophagitis
+- Symptoms: Difficult swallowing, painful swallowing, chest pain, particularly behind the breastbone, that occurs with eating, swollen, red-appearing esophagus, nausea, abdominal pain, vomiting, decreased appetite, cough, acid reflux.
+
+Gastritis
+- Symptoms: Nausea or recurrent upset stomach, abdominal bloating, abdominal pain, vomiting, indigestion, burning or gnawing feeling in the stomach between meals or at night, hiccups, loss of appetite, vomiting blood or coffee ground-like material, black, tarry stools.
+
+Gastroenteritis (Stomach Flu)
+- Symptoms: Diarrhea, abdominal cramps and pain, nausea, vomiting, occasional muscle aches or headache, low-grade fever.
+
+Peptic Ulcers
+- Symptoms: Burning stomach pain, feeling of fullness, bloating or belching, fatty food intolerance, heartburn, nausea, severe symptoms include vomiting or vomiting blood, which may appear red or black, dark blood in stools or stools that are black or tarry, trouble breathing, feeling faint, unexplained weight loss, appetite changes.
+
+Zollinger-Ellison Syndrome
+- Symptoms: Abdominal pain, diarrhea, burning, aching, gnawing, or discomfort in your upper abdomen, acid reflux and heartburn, nausea and vomiting, bleeding in your digestive tract, unintended weight loss, decreased appetite.
+
+Achalasia
+- Symptoms: Difficulty swallowing (dysphagia), regurgitation of food, chest pain, which may increase after eating or may be felt in the back, neck, and arms, cough, weight loss, heartburn, belching.
+
+Esophageal Varices
+- Symptoms: Vomiting blood, black, tarry or bloody stools, shock (in severe cases), symptoms of chronic liver disease, such as jaundice (yellow color of the skin or eyes), ascites (build-up of fluid in the abdomen), and muscle wasting.
+
+Esophageal Spasm
+- Symptoms: Squeezing pain in your chest, the pain generally comes on quickly and lasts from a few minutes to hours, pain in your chest that may spread rapidly to your neck, arms, or back, difficulty swallowing, the feeling that an object is stuck in your throat, the return of food and liquids back up your esophagus (regurgitation).
+
+Gastric Cancer (Stomach Cancer)
+- Symptoms: Indigestion or heartburn, discomfort or pain in the abdomen, nausea and vomiting, diarrhea or constipation, bloating of the stomach after meals, loss of appetite, sensation of food getting stuck in the throat while eating, symptoms of advanced stomach cancer may include weakness and fatigue, vomiting blood or having blood in the stool, unexplained weight loss.
+
+Gastroesophageal Reflux Disease (GERD)
+- Symptoms: A burning sensation in your chest (heartburn), usually after eating, which might be worse at night, chest pain, difficulty swallowing, regurgitation of food or sour liquid, sensation of a lump in your throat.
+
+Hiatal Hernia
+- Symptoms: Heartburn, regurgitation of food or liquids into the mouth, backflow of stomach acid into the esophagus (acid reflux), difficulty swallowing, chest or abdominal pain, feeling of fullness soon after you eat, shortness of breath.
+
+Lactose Intolerance
+- Symptoms: Diarrhea, nausea, and sometimes vomiting, stomach cramps, bloating, gas.
+
+Liver Cirrhosis
+- Symptoms: Fatigue, easily bleeding or bruising, loss of appetite, nausea, swelling in your legs, feet, or ankles (edema), weight loss, itchy skin, yellow discoloration in the skin and eyes (jaundice), fluid accumulation in your abdomen (ascites), spiderlike blood vessels on your skin, redness in the palms of the hands, for men, testicular atrophy (shrinking of the testicles) and enlarged breasts, for women, absence or loss of periods not related to menopause.
+
+Chronic Pancreatitis
+- Symptoms: Upper abdominal pain, losing weight without trying, oily, smelly stools (steatorrhea).
+
+Pancreatic Cancer
+- Symptoms: Abdominal pain that radiates to your back, loss of appetite or unintended weight loss, yellowing of your skin and the whites of your eyes (jaundice), light-colored stools, dark-colored urine, itchy skin, new diagnosis of diabetes or existing diabetes that's becoming more difficult to control, blood clots, fatigue, depression.
+
+Cholecystitis
+- Symptoms: Severe pain in your upper right or center abdomen, pain that spreads to your right shoulder or back, tenderness over your abdomen when it's touched, nausea, vomiting, fever.
+
+Gallstones
+- Symptoms: Sudden and rapidly intensifying pain in the upper right portion of your abdomen, sudden and rapidly intensifying pain in the center of your abdomen, just below your breastbone, back pain between your shoulder blades, pain in your right shoulder, nausea or vomiting.
+
+Celiac Disease
+- Symptoms: Diarrhea, fatigue, weight loss, bloating and gas, abdominal pain, nausea and vomiting, constipation.
+
+Crohn's Disease
+- Symptoms: Diarrhea, fever, fatigue, abdominal pain and cramping, blood in your stool, mouth sores, reduced appetite and weight loss, pain or drainage near or around the anus due to inflammation from a tunnel into the skin (fistula).
+
+Ulcerative Colitis
+- Symptoms: Diarrhea, often with blood or pus, abdominal pain and cramping, rectal pain, rectal bleeding, urgency to defecate, inability to defecate despite urgency, weight loss, fatigue, fever.
+
+Diverticulitis
+- Symptoms: Pain, usually in the lower left side of the abdomen, sometimes on the right, fever and chills, bloating and gas, diarrhea or constipation, nausea and sometimes vomiting, loss of appetite.
+
+Irritable Bowel Syndrome (IBS)
+- Symptoms: Cramping, abdominal pain, bloating, gas, diarrhea or constipation, or both.
+
+Hemorrhoids
+- Symptoms: Painful swelling or a lump near the anus, anal itching, minor bleeding during bowel movements, discomfort, pain or soreness in the same area.
+
+Anal Fissure
+- Symptoms: Pain, sometimes severe, during bowel movements, pain after bowel movements that can last up to several hours, bright red blood on the stool or toilet paper after a bowel movement, a visible crack in the skin around the anus, a small lump or skin tag on the skin near the anal fissure.
+
+Gastrointestinal Bleeding
+- Symptoms: Black or tarry stool, bright red blood in vomit, cramps in your abdomen, feeling tired, blood in stool, shortness of breath.
+
+Esophageal Varices
+- Symptoms: Vomiting blood, black, tarry or bloody stools, lightheadedness, loss of consciousness (in severe cases).
+
+Esophagitis
+- Symptoms: Difficult or painful swallowing, pain in the chest or upper abdomen, heartburn, a sensation of something stuck in the throat, nausea, vomiting, cough, oral lesions.
+
+Gastritis
+- Symptoms: Nausea or recurrent upset stomach, abdominal bloating, abdominal pain, vomiting, indigestion, burning or gnawing feeling in the stomach between meals or at night, hiccups, loss of appetite, vomiting blood or coffee ground-like material, black, tarry stools.
+
+Peptic Ulcer Disease
+- Symptoms: Burning stomach pain, feeling of fullness, bloating, or belching, fatty food intolerance, heartburn, nausea, severe symptoms include vomiting or vomiting blood, which may appear red or black, dark blood in stools or stools that are black or tarry, trouble breathing, feeling faint, unexplained weight loss, appetite changes.
+
+Stomach Cancer
+- Symptoms: Feeling bloated after eating, feeling full after eating small amounts of food, heartburn, indigestion, nausea, stomach pain, persistent vomiting, unexplained weight loss.
+
+Non-Alcoholic Fatty Liver Disease (NAFLD)
+- Symptoms: Often has no symptoms, but can include fatigue, pain or discomfort in the upper right abdomen.
+
+Hepatitis A, B, C, D, and E
+- Symptoms: Fatigue, nausea, abdominal pain, especially on the upper right side beneath your lower ribs (by your liver), clay-colored bowel movements, loss of appetite, low-grade fever, dark urine, joint pain, yellowing of the skin and the whites of your eyes (jaundice).
+
+Cirrhosis
+- Symptoms: Fatigue, easily bleeding or bruising, loss of appetite, nausea, swelling in your legs, feet or ankles (edema), weight loss, itchy skin, yellow discoloration in the skin and eyes (jaundice), fluid accumulation in your abdomen (ascites), spiderlike blood vessels on your skin, redness in the palms of the hands, for men, testicular atrophy (shrinking of the testicles) and breast enlargement, for women, absence or loss of periods not related to menopause.
+
+Primary Biliary Cirrhosis
+- Symptoms: Fatigue, itchy skin, dry eyes and mouth, pain in the upper right abdomen, swollen feet and ankles, darkening of the skin, bone, muscle aches, and pains.
+
+Primary Sclerosing Cholangitis
+- Symptoms: Itching, fatigue, yellowing of the skin and eyes (jaundice), fever, chills, night sweats, enlarged liver, pain in the upper right part of the abdomen, weight loss.
+
+Hepatocellular Carcinoma
+- Symptoms: Loss of appetite, weight loss without trying, upper abdominal pain, nausea and vomiting, general weakness and fatigue, abdominal swelling, yellow discoloration of your skin and the whites of your eyes (jaundice), white, chalky stools.
+
+Gallstones
+- Symptoms: Sudden and rapidly intensifying pain in the upper right portion of your abdomen, sudden and rapidly intensifying pain in the center of your abdomen, just below your breastbone, back pain between your shoulder blades, pain in your right shoulder, nausea or vomiting.
+
+Cholecystitis (Gallbladder Inflammation)
+- Symptoms: Severe pain in your upper right or center abdomen, pain that spreads to your right shoulder or back, tenderness over your abdomen when it's touched, nausea, vomiting, fever.
+
+Pancreatitis
+- Symptoms: Upper abdominal pain, abdominal pain that radiates to your back, abdominal pain that feels worse after eating, nausea, vomiting, tenderness when touching the abdomen.
+
+Pancreatic Cancer
+- Symptoms: Abdominal pain that radiates to your back, loss of appetite or unintended weight loss, yellowing of your skin and the whites of your eyes (jaundice), light-colored stools, dark-colored urine, itchy skin, new diagnosis of diabetes or existing diabetes that's becoming more difficult to control, blood clots, fatigue, depression.
+
+Ulcerative Colitis
+- Symptoms: Diarrhea, often with blood or pus, abdominal pain and cramping, rectal pain, rectal bleeding, urgency to defecate, inability to defecate despite urgency, weight loss, fatigue, fever.
+
+Crohn's Disease
+- Symptoms: Diarrhea, fever, fatigue, abdominal pain and cramping, blood in your stool, mouth sores, reduced appetite and weight loss, pain or drainage near or around the anus due to inflammation from a tunnel into the skin (fistula).
+
+Celiac Disease
+- Symptoms: Diarrhea, fatigue, weight loss, bloating and gas, abdominal pain, nausea and vomiting, constipation.
+
+Irritable Bowel Syndrome (IBS)
+- Symptoms: Cramping, abdominal pain, bloating, gas, diarrhea or constipation, or both.
+
+Diverticulitis
+- Symptoms: Pain, usually in the lower left side of the abdomen, sometimes on the right, fever and chills, bloating and gas, diarrhea or constipation, nausea and sometimes vomiting, loss of appetite.
+
+Gastroesophageal Reflux Disease (GERD)
+- Symptoms: A burning sensation in your chest (heartburn), usually after eating, which might be worse at night, chest pain, difficulty swallowing, regurgitation of food or sour liquid, sensation of a lump in your throat.
+
+Gastritis
+- Symptoms: Nausea or recurrent upset stomach, abdominal bloating, abdominal pain, vomiting, indigestion, burning or gnawing feeling in the stomach between meals or at night, hiccups, loss of appetite, vomiting blood or coffee ground-like material, black, tarry stools.
+
+Peptic Ulcer
+- Symptoms: Burning stomach pain, feeling of fullness, bloating or belching, fatty food intolerance, heartburn, nausea, severe symptoms include vomiting or vomiting blood, which may appear red or black, dark blood in stools or stools that are black or tarry, trouble breathing, feeling faint, unexplained weight loss, appetite changes.
+
+Zollinger-Ellison Syndrome
+- Symptoms: Peptic ulcers, diarrhea, abdominal pain, acid reflux and heartburn, nausea and vomiting, bleeding in your digestive tract, unintended weight loss, decreased appetite.
+
+Hepatitis A
+- Symptoms: Fatigue, nausea and vomiting, abdominal pain or discomfort, especially on the upper right side beneath your lower ribs (by your liver), clay-colored bowel movements, loss of appetite, low-grade fever, dark urine, joint pain, yellowing of the skin and the whites of your eyes (jaundice).
+
+Hepatitis B
+- Symptoms: Abdominal pain, dark urine, fever, joint pain, loss of appetite, nausea and vomiting, weakness and fatigue, yellowing of your skin and the whites of your eyes (jaundice).
+
+Hepatitis C
+- Symptoms: Bleeding easily, bruising easily, fatigue, poor appetite, yellow discoloration of the skin and eyes (jaundice), dark-colored urine, itchy skin, fluid buildup in your abdomen (ascites), swelling in your legs, weight loss, confusion, drowsiness and slurred speech (hepatic encephalopathy), spiderlike blood vessels on your skin (spider angiomas).
+
+Nonalcoholic Fatty Liver Disease
+- Symptoms: Often has no symptoms, but can include fatigue, pain or discomfort in the upper right abdomen.
+
+Cirrhosis
+- Symptoms: Fatigue, easily bleeding or bruising, loss of appetite, nausea, swelling in your legs, feet or ankles (edema), weight loss, itchy skin, yellow discoloration in the skin and eyes (jaundice), fluid accumulation in your abdomen (ascites), spiderlike blood vessels on your skin, redness in the palms of the hands, for men, testicular atrophy (shrinking of the testicles) and breast enlargement, for women, absence or loss of periods not related to menopause.
+
+Primary Biliary Cirrhosis
+- Symptoms: Fatigue, itchy skin, dry eyes and mouth, pain in the upper right abdomen, swollen feet and ankles, darkening of the skin, bone, muscle aches, and pains.
+
+Primary Sclerosing Cholangitis
+- Symptoms: Itching, fatigue, yellowing of the skin and eyes (jaundice), fever, chills, night sweats, enlarged liver, pain in the upper right part of the abdomen, weight loss.
+
+Hepatocellular Carcinoma
+- Symptoms: Loss of appetite, weight loss without trying, upper abdominal pain, nausea and vomiting, general weakness and fatigue, abdominal swelling, yellow discoloration of your skin and the whites of your eyes (jaundice), white, chalky stools.
+
+Gallstones
+- Symptoms: Sudden and rapidly intensifying pain in the upper right portion of your abdomen, sudden and rapidly intensifying pain in the center of your abdomen, just below your breastbone, back pain between your shoulder blades, pain in your right shoulder, nausea or vomiting.
+
+Cholecystitis (Gallbladder Inflammation)
+- Symptoms: Severe pain in your upper right or center abdomen, pain that spreads to your right shoulder or back, tenderness over your abdomen when it's touched, nausea, vomiting, fever.
+
+Pancreatitis
+- Symptoms: Upper abdominal pain, abdominal pain that radiates to your back, abdominal pain that feels worse after eating, nausea, vomiting, tenderness when touching the abdomen.
+
+Pancreatic Cancer
+- Symptoms: Abdominal pain that radiates to your back, loss of appetite or unintended weight loss, yellowing of your skin and the whites of your eyes (jaundice), light-colored stools, dark-colored urine, itchy skin, new diagnosis of diabetes or existing diabetes that's becoming more difficult to control, blood clots, fatigue, depression.
+
+Ulcerative Colitis
+- Symptoms: Diarrhea, often with blood or pus, abdominal pain and cramping, rectal pain, rectal bleeding, urgency to defecate, inability to defecate despite urgency, weight loss, fatigue, fever.
+
+Crohn's Disease
+- Symptoms: Diarrhea, fever, fatigue, abdominal pain and cramping, blood in your stool, mouth sores, reduced appetite and weight loss, pain or drainage near or around the anus due to inflammation from a tunnel into the skin (fistula).
+
+Celiac Disease
+- Symptoms: Diarrhea, fatigue, weight loss, bloating and gas, abdominal pain, nausea and vomiting, constipation.
+
+Irritable Bowel Syndrome (IBS)
+- Symptoms: Cramping, abdominal pain, bloating, gas, diarrhea or constipation, or both.
+
+Diverticulitis
+- Symptoms: Pain, usually in the lower left side of the abdomen, sometimes on the right, fever and chills, bloating and gas, diarrhea or constipation, nausea and sometimes vomiting, loss of appetite.
+
+Gastroesophageal Reflux Disease (GERD)
+- Symptoms: A burning sensation in your chest (heartburn), usually after eating, which might be worse at night, chest pain, difficulty swallowing, regurgitation of food or sour liquid, sensation of a lump in your throat.
+
+Gastritis
+- Symptoms: Nausea or recurrent upset stomach, abdominal bloating, abdominal pain, vomiting, indigestion, burning or gnawing feeling in the stomach between meals or at night, hiccups, loss of appetite, vomiting blood or coffee ground-like material, black, tarry stools.
+
+Peptic Ulcer
+- Symptoms: Burning stomach pain, feeling of fullness, bloating or belching, fatty food intolerance, heartburn, nausea, severe symptoms include vomiting or vomiting blood, which may appear red or black, dark blood in stools or stools that are black or tarry, trouble breathing, feeling faint, unexplained weight loss, appetite changes.
+
+Zollinger-Ellison Syndrome
+- Symptoms: Peptic ulcers, diarrhea, abdominal pain, acid reflux and heartburn, nausea and vomiting, bleeding in your digestive tract, unintended weight loss, decreased appetite.
+
+Hepatitis A
+- Symptoms: Fatigue, nausea and vomiting, abdominal pain or discomfort, especially on the upper right side beneath your lower ribs (by your liver), clay-colored bowel movements, loss of appetite, low-grade fever, dark urine, joint pain, yellowing of the skin and the whites of your eyes (jaundice).
+
+Hepatitis B
+- Symptoms: Abdominal pain, dark urine, fever, joint pain, loss of appetite, nausea and vomiting, weakness and fatigue, yellowing of your skin and the whites of your eyes (jaundice).
+
+Hepatitis C
+- Symptoms: Bleeding easily, bruising easily, fatigue, poor appetite, yellow discoloration of the skin and eyes (jaundice), dark-colored urine, itchy skin, fluid buildup in your abdomen (ascites), swelling in your legs, weight loss, confusion, drowsiness and slurred speech (hepatic encephalopathy), spiderlike blood vessels on your skin (spider angiomas).
+
+Nonalcoholic Fatty Liver Disease
+- Symptoms: Often has no symptoms, but can include fatigue, pain or discomfort in the upper right abdomen.
+
+Cirrhosis
+- Symptoms: Fatigue, easy bruising and bleeding, itchy skin, yellow discoloration in the skin and eyes (jaundice), fluid buildup in the abdomen (ascites), loss of appetite, nausea, swelling in the legs, weight loss, confusion, drowsiness, and slurred speech (hepatic encephalopathy), spider-like blood vessels on the skin.
+
+Primary Biliary Cholangitis
+- Symptoms: Itchy skin, dry eyes and mouth, fatigue, right upper abdominal discomfort, jaundice, darkening of the skin not related to sun exposure, bone, muscle aches, and pains.
+
+Wilson's Disease
+- Symptoms: Fatigue, lack of appetite, abdominal pain, jaundice, uncontrolled movements, swelling of the legs, buildup of fluid in the abdomen, problems with speech, swallowing or physical coordination, unexplained tremors.
+
+Alpha-1 Antitrypsin Deficiency
+- Symptoms: Shortness of breath, wheezing, chronic cough with sputum production, recurring respiratory infections, fatigue, rapid heartbeat upon standing, vision abnormalities, jaundice, swelling of the abdomen or legs, unintentional weight loss.
+
+Hemochromatosis
+- Symptoms: Joint pain, abdominal pain, fatigue, weakness, diabetes, loss of sex drive, impotence, heart failure, liver failure (cirrhosis).
+
+Gastroenteritis
+- Symptoms: Diarrhea, abdominal cramps and pain, nausea, vomiting, occasional muscle aches or headache, low-grade fever.
+
+Food Poisoning
+- Symptoms: Nausea, vomiting, watery or bloody diarrhea, abdominal pain and cramps, fever.
+
+Gastritis
+- Symptoms: Nausea or recurrent upset stomach, abdominal bloating, abdominal pain, vomiting, indigestion, burning or gnawing feeling in the stomach between meals or at night, hiccups, loss of appetite, vomiting blood or coffee ground-like material, black, tarry stools.
+
+Peptic Ulcer
+- Symptoms: Burning stomach pain, heartburn, nausea, bloating or burping, feeling of fullness, intolerance to fatty foods, heartburn, and nausea.
+
+Gastroesophageal Reflux Disease (GERD)
+- Symptoms: Heartburn, acid reflux, chest pain, difficulty swallowing, regurgitation of food or sour liquid, sensation of a lump in the throat.
+
+Celiac Disease
+- Symptoms: Diarrhea, fatigue, weight loss, bloating, anemia, nausea, constipation, and dermatitis herpetiformis (itchy skin rash).
+
+Irritable Bowel Syndrome (IBS)
+- Symptoms: Cramping, abdominal pain, bloating, gas, and diarrhea or constipation, or both.
+
+Inflammatory Bowel Disease (IBD)
+- Symptoms: Severe diarrhea, pain, fatigue, and weight loss. Includes Crohn's disease and ulcerative colitis.
+
+Diverticulitis
+- Symptoms: Abdominal pain (usually on the left side), fever, nausea, vomiting, bloating, rectal bleeding.
+
+Hemorrhoids
+- Symptoms: Painful swelling or a lump near the anus, itching, minor bleeding during bowel movements.
+
+Anal Fissure
+- Symptoms: A small tear in the lining of the anus causing pain, especially during bowel movements, bleeding seen as red streaks on stools or toilet paper.
+
+Colorectal Cancer
+- Symptoms: Changes in bowel habits, rectal bleeding or blood in stool, persistent abdominal discomfort, weakness or fatigue, unexplained weight loss.
+
+Hepatitis A
+- Symptoms: Fatigue, sudden nausea and vomiting, abdominal pain, especially on the upper right side beneath the lower ribs, clay-colored bowel movements, loss of appetite, low-grade fever, dark urine, joint pain, yellowing of the skin and eyes (jaundice).
+
+Hepatitis B
+- Symptoms: Abdominal pain, dark urine, fever, joint pain, loss of appetite, nausea and vomiting, weakness and fatigue, yellowing of your skin and the whites of your eyes (jaundice).
+
+Hepatitis C
+- Symptoms: Bleeding easily, bruising easily, fatigue, poor appetite, yellow discoloration of the skin and eyes, dark-colored urine, itchy skin, fluid buildup in the abdomen, swelling of the legs, weight loss.
+
+Pancreatitis
+- Symptoms: Upper abdominal pain, nausea, vomiting, tenderness when touching the abdomen.
+
+Pancreatic Cancer
+- Symptoms: Abdominal pain that radiates to your back, loss of appetite or unintended weight loss, yellowing of your skin and the whites of your eyes, light-colored stools, dark-colored urine.
+
+Cholecystitis (Gallbladder Inflammation)
+- Symptoms: Severe pain in your upper right abdomen, pain that radiates to your right shoulder or back, tenderness over your abdomen when touched, nausea, vomiting.
+
+Gallstones
+- Symptoms: Sudden and intense pain in the upper right part of your abdomen, sudden and intense pain in the center of your abdomen, just below your breastbone, back pain between your shoulder blades, pain in your right shoulder, nausea or vomiting.
+
+Kidney Stones
+- Symptoms: Severe pain in the side and back, below the ribs, pain that radiates to the lower abdomen and groin, pain on urination, pink, red or brown urine, cloudy or foul-smelling urine.
+
+Kidney Infection (Pyelonephritis)
+- Symptoms: High fever, chills, back, side (flank) or groin pain, abdominal pain, frequent urination, strong, persistent urge to urinate, burning sensation or pain when urinating, pus or blood in your urine (hematuria).
+
+Chronic Kidney Disease
+- Symptoms: Nausea, vomiting, loss of appetite, fatigue and weakness, sleep problems, changes in how much you urinate, decreased mental sharpness, muscle twitches and cramps, swelling of feet and ankles, persistent itching, chest pain, if fluid builds up around the lining of the heart, shortness of breath, if fluid builds up in the lungs, high blood pressure (hypertension) that's difficult to control.
+
+Urinary Tract Infection (UTI)
+- Symptoms: A strong, persistent urge to urinate, a burning sensation when urinating, passing frequent, small amounts of urine, urine that appears cloudy, urine that appears red, bright pink or cola-colored — a sign of blood in the urine, strong-smelling urine, pelvic pain, in women — especially in the center of the pelvis and around the area of the pubic bone.
+
+Bladder Cancer
+- Symptoms: Blood in urine (hematuria), painful urination, pelvic pain, back pain, frequent urination.
+
+Prostate Cancer
+- Symptoms: Trouble urinating, decreased force in the stream of urine, blood in the semen, discomfort in the pelvic area, bone pain, erectile dysfunction.
+
+Erectile Dysfunction
+- Symptoms: Trouble getting an erection, trouble keeping an erection, reduced sexual desire.
+
+Prostatitis
+- Symptoms: Pain or burning sensation when urinating, difficulty urinating, such as dribbling or hesitant urination, frequent urination, particularly at night (nocturia), urgent need to urinate, cloudiness or blood in the urine, pain in the abdomen, groin, or lower back, pain in the area between the scrotum and rectum (perineum), pain or discomfort of the penis or testicles, painful ejaculations, flu-like symptoms (with bacterial prostatitis).
+
+Benign Prostatic Hyperplasia (BPH)
+- Symptoms: Frequent or urgent need to urinate, increased frequency of urination at night (nocturia), difficulty starting urination, weak urine stream or a stream that stops and starts, dribbling at the end of urination, inability to completely empty the bladder.
+
+Ovarian Cancer
+- Symptoms: Abdominal bloating or swelling, quickly feeling full when eating, weight loss, discomfort in the pelvis area, changes in bowel habits, such as constipation, a frequent need to urinate.
+
+Cervical Cancer
+- Symptoms: Vaginal bleeding after intercourse, between periods or after menopause, watery, bloody vaginal discharge that may be heavy and have a foul odor, pelvic pain or pain during intercourse.
+
+Endometriosis
+- Symptoms: Painful periods (dysmenorrhea), pain with intercourse, pain with bowel movements or urination, excessive bleeding, infertility, fatigue, diarrhea, constipation, bloating or nausea, especially during menstrual periods.
+
+Uterine Fibroids
+- Symptoms: Heavy menstrual bleeding, menstrual periods lasting more than a week, pelvic pressure or pain, frequent urination, difficulty emptying the bladder, constipation, backache or leg pains.
+
+Polycystic Ovary Syndrome (PCOS)
+- Symptoms: Irregular periods, heavy bleeding, hair growth on the face, chest, stomach, back, thumbs, or toes, acne, oily skin, or dandruff, weight gain, male-pattern baldness or thinning hair, darkening of skin, particularly along neck creases, in the groin, and underneath breasts, skin tags in the armpits or neck area, headaches, infertility.
+
+Menopause
+- Symptoms: Irregular periods, vaginal dryness, hot flashes, chills, night sweats, sleep problems, mood changes, weight gain and slowed metabolism, thinning hair and dry skin, loss of breast fullness.
+
+Preeclampsia
+- Symptoms: High blood pressure, excess protein in urine, severe headaches, changes in vision, including temporary loss of vision, blurred vision or light sensitivity, upper abdominal pain, usually under the ribs on the right side, nausea or vomiting, dizziness, decreased urine output, sudden weight gain, swelling in your face and hands (edema).
+
+Ectopic Pregnancy
+- Symptoms: Sharp waves of pain in the abdomen, pelvis, shoulder, or neck, severe pain that occurs on one side of the abdomen, light to heavy vaginal spotting or bleeding, dizziness or fainting, rectal pressure.
+
+Osteoarthritis
+- Symptoms: Pain, tenderness, stiffness, loss of flexibility, grating sensation, bone spurs.
+
+Rheumatoid Arthritis
+- Symptoms: Tender, warm, swollen joints, joint stiffness that is usually worse in the mornings and after inactivity, fatigue, fever, and loss of appetite.
+
+Psoriatic Arthritis
+- Symptoms: Joint pain, stiffness, and swelling, psoriasis skin symptoms, nail changes, eye inflammation.
+
+Lupus
+- Symptoms: Fatigue, joint pain, rash, and fever. Can affect the skin, joints, kidneys, brain, and other organs.
+
+Scoliosis
+- Symptoms: Uneven shoulders or waist, one hip higher than the other, leaning to one side.
+
+Osteoporosis
+- Symptoms: Back pain, loss of height over time, a stooped posture, bone fractures from minimal trauma.
+
+Gout
+- Symptoms: Intense joint pain, lingering discomfort, inflammation and redness, limited range of motion.
+
+Fibromyalgia
+- Symptoms: Widespread pain, fatigue, cognitive difficulties, headaches, depression.
+
+Chronic Fatigue Syndrome
+- Symptoms: Extreme fatigue, loss of memory or concentration, sore throat, enlarged lymph nodes in your neck or armpits, unexplained muscle or joint pain, headaches, unrefreshing sleep, extreme exhaustion lasting more than 24 hours after physical or mental exercise.
+
+Lyme Disease
+- Symptoms: Fever, chills, fatigue, body aches, headache, neck stiffness, erythema migrans rash.
+
+Ankylosing Spondylitis
+- Symptoms: Pain and stiffness in the lower back and hips, especially in the morning and after periods of inactivity, neck pain, fatigue.
+
+Systemic Sclerosis (Scleroderma)
+- Symptoms: Hardening and tightening of the skin, Raynaud's phenomenon, acid reflux, digestive problems, joint pain and stiffness.
+
+Dermatomyositis
+- Symptoms: Muscle weakness, skin rash, difficulty swallowing, lung problems, muscle pain and tenderness.
+
+Polymyalgia Rheumatica
+- Symptoms: Muscle pain and stiffness, especially in the shoulders, hips, and neck, fatigue, fever, weight loss.
+
+Psoriasis
+- Symptoms: Red patches of skin covered with thick, silvery scales, dry, cracked skin that may bleed, itching, burning, soreness.
+
+Seborrheic Dermatitis
+- Symptoms: Skin flakes (dandruff) on your scalp, hair, eyebrows, beard or mustache, patches of greasy skin covered with flaky white or yellow scales or crust on the scalp, ears, face, chest, armpits, scrotum or other parts of the body, red skin, itching.
+
+Eczema (Atopic Dermatitis)
+- Symptoms: Itching, redness, dry skin, cracks behind the ears or on the hands, rough patches on the skin.
+
+Rosacea
+- Symptoms: Facial redness, swollen red bumps, eye problems, enlarged nose.
+
+Acne
+- Symptoms: Whiteheads, blackheads, pimples, oily skin, possible scarring.
+
+Hives (Urticaria)
+- Symptoms: Red, raised, itchy welts on the skin's surface, welts that vary in size, change shape, and appear and fade repeatedly.
+
+Cellulitis
+- Symptoms: Redness, swelling, tenderness, pain, warmth, fever, red spots, blisters.
+
+Impetigo
+- Symptoms: Red sores that pop easily and leave a yellow crust, itchy rash, fluid-filled blisters.
+
+Melanoma
+- Symptoms: A large brownish spot with darker speckles, a mole that changes in color, size, or feel or that bleeds, a small lesion with an irregular border and portions that appear red, white, blue or blue-black, a painful lesion that itches or burns.
+
+Basal Cell Carcinoma
+- Symptoms: A pearly or waxy bump, a flat, flesh-colored or brown scar-like lesion, bleeding or scabbing sore that heals and returns.
+
+Squamous Cell Carcinoma
+- Symptoms: A firm, red nodule, a flat lesion with a scaly, crusted surface.
+
+Leukemia
+- Symptoms: Fever or chills, persistent fatigue, weakness, frequent or severe infections, losing weight without trying, swollen lymph nodes, enlarged liver or spleen, easy bleeding or bruising, recurrent nosebleeds, tiny red spots in your skin (petechiae), excessive sweating, especially at night, bone pain or tenderness.
+
+Non-Hodgkin's Lymphoma
+- Symptoms: Enlarged lymph nodes, abdominal pain or swelling, chest pain, coughing or trouble breathing, persistent fatigue, fever, night sweats, weight loss.
+
+Hodgkin's Lymphoma
+- Symptoms: Painless swelling of lymph nodes in your neck, armpits or groin, persistent fatigue, fever, night sweats, weight loss, severe itching, increased sensitivity to the effects of alcohol or pain in your lymph nodes after drinking alcohol.
+
+Multiple Myeloma
+- Symptoms: Bone pain, especially in your spine or chest, nausea, constipation, loss of appetite, mental fogginess or confusion, fatigue, frequent infections, weight loss, weakness or numbness in your legs, excessive thirst.
+
+Lung Cancer
+- Symptoms: A cough that doesn't go away, coughing up blood, shortness of breath, chest pain, hoarseness, losing weight without trying, bone pain, headache.
+
+Breast Cancer
+- Symptoms: A breast lump or thickening that feels different from the surrounding tissue, change in the size, shape or appearance of a breast, changes to the skin over the breast, such as dimpling, a newly inverted nipple, peeling, scaling, crusting or flaking of the pigmented area of skin surrounding the nipple (areola) or breast skin, redness or pitting of the skin over your breast, like the skin of an orange.
+
+Prostate Cancer
+- Symptoms: Trouble urinating, decreased force in the stream of urine, blood in semen, discomfort in the pelvic area, bone pain, erectile dysfunction.
+
+Colorectal Cancer
+- Symptoms: A change in your bowel habits, including diarrhea or constipation or a change in the consistency of your stool, rectal bleeding or blood in your stool, persistent abdominal discomfort, such as cramps, gas or pain, a feeling that your bowel doesn't empty completely, weakness or fatigue, unexplained weight loss.
+
+Skin Cancer (Non-Melanoma)
+- Symptoms: Basal cell carcinoma often appears as a slightly transparent bump on the skin, though it can take other forms. Squamous cell carcinoma is commonly a well-defined, red, scaling, thickened patch on sun-exposed skin.
+
+Cervical Cancer
+- Symptoms: Vaginal bleeding after intercourse, between periods or after menopause, watery, bloody vaginal discharge that may be heavy and have a foul odor, pelvic pain or pain during intercourse.
+
+Ovarian Cancer
+- Symptoms: Abdominal bloating or swelling, quickly feeling full when eating, weight loss, discomfort in the pelvis area, changes in bowel habits, such as constipation, a frequent need to urinate.
+
+Thyroid Cancer
+- Symptoms: A lump that can be felt through the skin on your neck, changes to your voice, including increasing hoarseness, difficulty swallowing, pain in your neck and throat, swollen lymph nodes in your neck.
+
+Bladder Cancer
+- Symptoms: Blood in urine (hematuria), painful urination, frequent urination, urgent urination, back pain, pelvic pain.
+
+Pancreatic Cancer
+- Symptoms: Abdominal pain that radiates to your back, loss of appetite or unintended weight loss, light-colored stools, dark-colored urine, jaundice.
+
+Kidney Cancer
+- Symptoms: Blood in your urine, which may appear pink, red or cola-colored, back pain just below the ribs that doesn't go away, weight loss, fatigue, intermittent fever.
+
+Bone Cancer
+- Symptoms: Bone pain, swelling and tenderness near the affected area, weakened bone, leading to fracture, fatigue, unintended weight loss.
+
+Leiomyosarcoma
+- Symptoms: Painful swelling or a lump, nausea, vomiting, abdominal discomfort or bloating, pain, redness, or swelling in the legs or arms, difficulty swallowing, feeling full after only a small amount of food, bleeding from the vagina or rectum, blood in the stool, black and tarry stool.
+
+Gastrointestinal Stromal Tumor (GIST)
+- Symptoms: An early feeling of fullness after eating, pain in the abdomen or pelvis, blood in the stool or vomit, anemia, causing tiredness and shortness of breath, a lump in the abdomen that can be felt from the outside.
+
+Esophageal Cancer
+- Symptoms: Difficulty swallowing, weight loss, chest pain, worsening indigestion or heartburn, coughing or hoarseness.
+
+Head and Neck Cancer
+- Symptoms: A lump or sore that doesn't heal, a sore throat that doesn't go away, difficulty swallowing, a change or hoarseness in the voice.
+
+Brain Tumor
+- Symptoms: Headaches that become more frequent and more severe, unexplained nausea or vomiting, vision problems, such as blurred vision, double vision or loss of peripheral vision, gradual loss of sensation or movement in an arm or a leg, difficulty with balance, speech difficulties, confusion in everyday matters, personality or behavior changes, seizures, especially in someone who doesn't have a history of seizures, hearing problems.
+
+Acute Lymphoblastic Leukemia
+- Symptoms: Fever, bone pain, lethargy and fatigue, easy bruising or bleeding, petechiae (small red spots under the skin), frequent infections, weight loss, swollen lymph nodes, enlarged liver or spleen.
+
+Acute Myeloid Leukemia
+- Symptoms: Fever, bone pain, lethargy and fatigue, easy bruising or bleeding, petechiae (small red spots under the skin), frequent infections, weight loss, swollen lymph nodes, enlarged liver or spleen, night sweats.
+
+Chronic Lymphocytic Leukemia
+- Symptoms: Enlargement of the lymph nodes, fatigue, fever, night sweats, weight loss, frequent infections, pain or fullness below the ribs due to enlarged liver or spleen.
+
+Chronic Myeloid Leukemia
+- Symptoms: Fatigue, weight loss, fever, night sweats, bone pain, an enlarged spleen that can cause a sense of fullness or pain on the left side of the abdomen.
+
+Hodgkin's Lymphoma
+- Symptoms: Painless swelling of lymph nodes in your neck, armpits, or groin, persistent fatigue, fever, night sweats, weight loss, severe itching, increased sensitivity to the effects of alcohol or pain in your lymph nodes after drinking alcohol.
+
+Non-Hodgkin's Lymphoma
+- Symptoms: Enlarged lymph nodes, abdominal pain or swelling, chest pain, coughing or trouble breathing, persistent fatigue, fever, night sweats, weight loss.
+
+Multiple Myeloma
+- Symptoms: Bone pain, especially in your spine or chest, nausea, constipation, loss of appetite, mental fogginess or confusion, fatigue, frequent infections, weight loss, weakness or numbness in your legs, excessive thirst.
+
+Myelodysplastic Syndromes
+- Symptoms: Fatigue, shortness of breath, unusual paleness due to anemia, easy bruising or bleeding, pinhead-sized red spots just beneath your skin caused by bleeding, frequent infections.
+
+T-Cell Lymphoma
+- Symptoms: Enlarged lymph nodes, skin rash, itching, cough, shortness of breath, fatigue, fever, night sweats, weight loss.
+
+Thrombocytopenia
+- Symptoms: Easy or excessive bruising, superficial bleeding into the skin that appears as a rash of pinpoint-sized reddish-purple spots (petechiae), usually on the lower legs, prolonged bleeding from cuts, bleeding from your gums or nose, blood in urine or stools, unusually heavy menstrual flows, fatigue, enlarged spleen.
+
+Hemophilia
+- Symptoms: Large or deep bruises, joint pain and swelling caused by internal bleeding, unexplained and excessive bleeding from cuts or injuries, or after surgery or dental work, nosebleeds without a known cause, in infants, unexplained irritability, blood in urine or stool.
+
+Von Willebrand Disease
+- Symptoms: Frequent nosebleeds, easy bruising, bleeding gums, heavy menstrual bleeding, blood in the urine or stool, prolonged bleeding from cuts or injuries.
+
+Aplastic Anemia
+- Symptoms: Fatigue, shortness of breath, rapid or irregular heart rate, pale skin, frequent or prolonged infections, unexplained or easy bruising, nosebleeds and bleeding gums, prolonged bleeding from cuts, skin rash, dizziness, headache.
+
+Tension Headaches
+
+Symptoms: Dull, aching head pain; sensation of tightness or pressure across your forehead or on the sides and back of your head; tenderness on your scalp, neck, and shoulder muscles.
+Migraines
+
+Symptoms: Severe, often pulsating, head pain usually on one side; nausea; vomiting; extreme sensitivity to light and sound; some people experience aura.
+Cluster Headaches
+
+Symptoms: Intense burning or piercing pain behind or around one eye; pain may radiate to other areas of your face, head, neck, and shoulders; restlessness; excessive tearing; redness in your eye on the affected side; stuffy or runny nose on the affected side; forehead and facial sweating; pale skin or flushing on your face.
+Sinus Headaches
+
+Symptoms: Pain, pressure, and fullness in your cheeks, brow or forehead; worsening pain if you bend forward or lie down; stuffy nose; fatigue; achy feeling in your upper teeth.
+Medication Overuse Headaches
+
+Symptoms: Chronic daily headaches; often waking up with the headache; neck pain; restlessness; a reduction in the effectiveness of analgesics over time.
+Hormonal Headaches
+
+Symptoms: Headache pain along with changes in hormonal levels during menstrual cycles, pregnancy, or menopause; may resemble migraines.
+Exertional Headaches
+
+Symptoms: Headaches triggered by physical activity, including running, jumping, or sexual intercourse; can be throbbing and affect both sides of your head.
+Hypertension Headaches
+
+Symptoms: Headache due to high blood pressure; usually occurs in cases of severely elevated blood pressure; pain typically occurs on both sides of your head and may be worse with any activity.
+Caffeine Withdrawal Headaches
+
+Symptoms: Headache occurring after stopping caffeine consumption abruptly; often described as a dull headache that may affect the entire head.
+Post-Traumatic Headaches
+
+Symptoms: Headache pain following an injury to the head; symptoms may resemble migraines or tension-type headaches; dizziness; difficulty concentrating; memory problems.
+Temporal Arteritis
+
+Symptoms: Intense headache pain; tenderness in the temple area; jaw pain while eating; vision problems; scalp tenderness.
+Chiari Malformation Headaches
+
+Symptoms: Headache pain caused by a Chiari malformation, typically felt in the back of the head; may be exacerbated by coughing, sneezing, or straining.
+Idiopathic Intracranial Hypertension
+
+Symptoms: Daily headaches; pulsatile tinnitus; double vision; transient visual obscurations; pain behind the eye; vision loss.
+Cervicogenic Headaches
+
+Symptoms: Pain on one side of your head or face; steady pain that does not throb; head pain when you cough, sneeze, or take a deep breath; headache with certain neck movements or when holding your neck in the same position for a long time.
+Trigeminal Neuralgia
+
+Symptoms: Extreme, sporadic, sudden burning or shock-like facial pain that lasts anywhere from a few seconds to as long as two minutes per episode.
+Occipital Neuralgia
+
+Symptoms: Chronic headache that originates from the neck and is characterized by piercing, throbbing, or electric-shock-like chronic pain in the upper neck, back of the head, and behind the ears.
+Thunderclap Headaches
+
+Symptoms: Extremely severe headache that reaches maximum intensity within 60 seconds; often described as the "worst headache of your life"; requires immediate medical attention.
+Pseudotumor Cerebri
+
+Symptoms: Daily headaches; pulsatile tinnitus; double vision; transient visual obscurations; neck and shoulder pain.
+Sleep Apnea Headaches
+
+Symptoms: Morning headaches that wear off as the day goes on; feelings of fatigue or grogginess despite a full night's sleep; may be associated with snoring or sleep disturbances.
+Carbon Monoxide Poisoning Headaches
+
+Symptoms: Dull, frontal headache that worsens with continued exposure to carbon monoxide; may be accompanied by dizziness, weakness, nausea, vomiting, and confusion.
+Hypoglycemia Headaches
+
+Symptoms: Headache associated with low blood sugar levels; often accompanied by dizziness, weakness, sweating, and irritability.
+Giant Cell Arteritis
+
+Symptoms: Severe headaches, primarily affecting the temples; jaw pain; vision problems; scalp tenderness.
+Meningitis
+
+Symptoms: Severe headache with nausea; vomiting; fever; stiff neck; sensitivity to light; confusion; requires immediate medical attention.
+Encephalitis
+
+Symptoms: Headache; fever; confusion; seizures; sensitivity to light; neck stiffness; requires immediate medical attention.
+Brain Tumor
+
+Symptoms: New onset or change in pattern of headaches; headaches that gradually become more frequent and severe; nausea; vision problems; seizures; vomiting; confusion or concentration problems.
+Brain Aneurysm
+
+Symptoms: Sudden, extremely severe headache; nausea; stiff neck; blurred or double vision; sensitivity to light; seizure; drooping eyelid; loss of consciousness; confusion.
+Stroke
+
+Symptoms: Sudden severe headache with no known cause; trouble walking, speaking, and understanding; paralysis or numbness of the face, arm, or leg.
+Subarachnoid Hemorrhage
+
+Symptoms: Sudden severe headache, often described as the "worst headache ever"; nausea; vomiting; stiff neck; vision problems; seizures; loss of consciousness.
+Sinus Infection (Sinusitis)
+
+Symptoms: Pain, tenderness, and swelling around your eyes, cheeks, nose, or forehead; sinus pressure or congestion; headache; fever.
+TMJ Disorders
+
+Symptoms: Pain or tenderness in your jaw; aching pain in and around your ear; difficulty chewing or pain while chewing; aching facial pain; headache; locking of the joint, making it difficult to open or close your mouth.
+Dental Abscess
+
+Symptoms: Severe, persistent, throbbing toothache that can radiate to the jawbone, neck, or ear; sensitivity to hot and cold temperatures; sensitivity to the pressure of chewing or biting; fever; swelling in your face or cheek; tender, swollen lymph nodes under your jaw or in your neck; sudden rush of foul-smelling and foul-tasting, salty fluid in your mouth and pain relief if the abscess ruptures; difficulty breathing or swallowing.
+Arteriovenous Malformation (AVM)
+
+Symptoms: Headaches; seizures; progressive weakness or numbness; vision loss; difficulty speaking; confusion or inability to understand others; severe unsteadiness.
+Carbon Monoxide Poisoning
+
+Symptoms: Dull headache, weakness, dizziness, nausea or vomiting, shortness of breath, confusion, blurred vision, loss of consciousness.
+Hangovers
+
+Symptoms: Headache, nausea, vomiting, dizziness, sensitivity to light and sound, fatigue, dehydration.
+Hypertensive Crisis
+
+Symptoms: Severe headache, severe anxiety, shortness of breath, nosebleeds.
+Intracranial Hematoma
+
+Symptoms: Severe headache, confusion or disorientation, slurred speech, unequal pupil size.
+Post-Concussion Syndrome
+
+Symptoms: Headaches, dizziness, fatigue, irritability, anxiety, insomnia, loss of concentration and memory, ringing in the ears, blurry vision.
+Rebound Headaches
+
+Symptoms: Headaches occurring daily, often waking you in the early morning, headaches improving with pain relief medication but then returning as the medication wears off.
+Spinal Headaches
+
+Symptoms: Dull, throbbing headache that varies in intensity from mild to incapacitating, symptoms worsen when upright and improve when lying down, may be associated with neck stiffness, ringing in the ears, hearing loss, blurred vision, nausea, vomiting.
+Whiplash
+
+Symptoms: Headaches at the base of the skull that radiate towards the forehead, neck pain and stiffness, dizziness, blurred vision.
+Subdural Hematoma
+
+Symptoms: Headache, confusion, change in behavior, dizziness, nausea, vomiting, lethargy, weakness on one side of the body.
+Epidural Hematoma
+
+Symptoms: Severe headache, confusion, drowsiness, dilation of one pupil, weakness on one side of the body, nausea, vomiting.
+Migraine with Aura
+
+Symptoms: Visual disturbances, such as flashes of light, zigzagging patterns or blind spots, followed by a severe headache, often on one side of the head.
+Optic Neuritis
+
+Symptoms: Pain with eye movement, temporary vision loss in one eye, flashing lights.
+Pituitary Tumors
+
+Symptoms: Headache, vision problems, nausea, vomiting, hormonal imbalances.
+Pseudomigraine with Lymphocyte Pleocytosis
+
+Symptoms: Recurring headaches with neurological symptoms, including temporary vision loss, weakness, or sensory changes, accompanied by a high number of lymphocytes in the cerebrospinal fluid.
+Hemicrania Continua
+
+Symptoms: Continuous headache on one side of the head, varying in severity, with possible tearing or redness of the eye on the affected side, nasal congestion, or drooping eyelid.
+New Daily Persistent Headache (NDPH)
+
+Symptoms: Sudden onset of headache that becomes constant within three days and can last for more than three months, often resistant to medications.
+Secondary Headaches Due to Sinus Disease
+
+Symptoms: Headache associated with sinus congestion and infection, facial pain, pressure, nasal congestion, reduced sense of smell.
+Secondary Headaches Due to Neck Injury
+
+Symptoms: Headache stemming from the neck region, especially following an injury; pain may radiate from the neck to the head.
+Cough Headaches
+
+Symptoms: Sudden onset of headaches triggered by coughing, sneezing, bending, or straining.
+Coital Cephalalgia (Sex Headaches)
+
+Symptoms: Sudden, severe headache that occurs just before or during orgasm.
+Hypnic Headaches
+
+Symptoms: Recurring headaches that occur during sleep, waking the individual, often called "alarm clock headaches."
+Cold-Stimulus Headaches (Ice Cream Headaches)
+
+Symptoms: Brief, stabbing headache in response to cold stimulus, especially after consuming cold food or drinks.
+Nummular Headaches
+
+Symptoms: Headache felt in a small, localized spot, causing a sensation of pressure or discomfort in a circular area on the head.
+Burning Mouth Syndrome
+
+Symptoms: A sensation of burning, scalding, or tingling in the mouth, which may include the lips, tongue, or palate, accompanied by dry mouth and taste changes.
+Trigeminal Autonomic Cephalalgias (TACs)
+
+Symptoms: Severe, unilateral headaches with autonomic features such as tearing, nasal congestion, or eyelid drooping; includes cluster headaches, paroxysmal hemicrania, and SUNCT/SUNA.
+Stabbing Headaches
+
+Symptoms: Sudden, sharp, stabbing pain that occurs in isolated areas of the head, often lasting only a few seconds.
+Thunderclap Headaches
+
+Symptoms: Extremely severe headache that develops in 60 seconds or less; often described as the "worst headache" ever experienced; may indicate a life-threatening condition and requires immediate medical evaluation.
+Vestibular Migraine
+
+Symptoms: Migraine associated with vertigo, dizziness, balance problems, and sensitivity to motion.
+Hypertension Headaches
+
+Symptoms: Headaches occurring during episodes of significantly elevated blood pressure, often described as pulsating, and occurring typically in the morning.
+Headache Attributed to Psychiatric Disorder
+
+Symptoms: Headache associated with a psychological condition such as depression, anxiety, or somatization disorder, where the headache is a manifestation of psychological distress.
+Benign Intracranial Hypertension (Pseudotumor Cerebri)
+
+Symptoms: Persistent headache, visual disturbances, pulsatile tinnitus, and sometimes neck or shoulder pain, without an actual tumor being present.
+Spontaneous Intracranial Hypotension
+
+Symptoms: Orthostatic headache that worsens when standing or sitting upright and improves when lying down, possibly accompanied by neck stiffness, nausea, and hearing changes.
+Secondary Headaches Due to Arterial Dissection
+
+Symptoms: Sudden onset of pain, often around the neck, that can radiate to the head, possibly following a traumatic injury; may be associated with symptoms of a stroke.
+Secondary Headaches Due to Arteriovenous Malformations
+
+Symptoms: Headaches caused by abnormal connections between arteries and veins in the brain, which can lead to bleeding; may be associated with seizures or neurological deficits.
+Post-Lumbar Puncture Headaches
+
+Symptoms: Headaches developing after a lumbar puncture (spinal tap), characterized by worsening pain when in the upright position and relief when lying down.
+Low Cerebrospinal Fluid Pressure Headaches
+
+Symptoms: Headaches that worsen when upright and improve when lying down, possibly due to a cerebrospinal fluid leak.
+Cranial Neuralgias
+
+Symptoms: Intense pain associated with one of the cranial nerves, often affecting the face; includes conditions such as trigeminal neuralgia and glossopharyngeal neuralgia.
+Central Pain Syndrome
+
+Symptoms: Pain or headache stemming from damage to the central nervous system, such as from a stroke, multiple sclerosis, or spinal cord injury.
+Post-Traumatic Headache
+
+Symptoms: Headaches developing after a head injury, often resembling migraines or tension-type headaches; may be associated with cognitive, behavioral, or emotional changes.
+Post-Infection Headache
+
+Symptoms: Persistent headache following an infection, such as viral meningitis or encephalitis; may mimic migraine or tension-type headaches.
+Chronic Paroxysmal Hemicrania
+
+Symptoms: Frequent, short-lasting, and very painful headaches occurring on one side of the head; often responds well to indomethacin.
+Short-Lasting Unilateral Neuralgiform Headache Attacks (SUNCT/SUNA)
+
+Symptoms: Short, unilateral, stabbing headache attacks accompanied by redness and tearing of the eye; very rare.
+Primary Stabbing Headache
+
+Symptoms: Sudden, brief, and sharp stabbing pains in the head that can occur anywhere and at any time; sometimes called "ice-pick headaches" or "idiopathic stabbing headache."
+Primary Cough Headache
+
+Symptoms: Sudden headache triggered by coughing, sneezing, laughing, crying, straining, or other types of Valsalva maneuvers.
+Primary Exertional Headache
+
+Symptoms: Headaches triggered by physical activity, ranging from coughing, sexual activity, to strenuous exercise; usually bilateral and pulsating.
+Primary Headache Associated with Sexual Activity
+
+Symptoms: Headache that starts during sexual activity and intensifies as sexual excitement increases; can be dull or throbbing and is often very intense at orgasm.
+Hemicrania Continua
+
+Symptoms: Continuous, unilateral headache without shifting sides, marked by periodic episodes of more intense pain; completely responsive to indomethacin.
+New Daily Persistent Headache (NDPH)
+
+Symptoms: Headache that starts abruptly and is daily and continuous from its onset; can have features of migraine or tension-type headaches.
+Primary Thunderclap Headache
+
+Symptoms: Sudden onset of severe headache peaking within 60 seconds; can mimic serious conditions like subarachnoid hemorrhage.
+Cold-Stimulus Headache
+
+Symptoms: Brief, sharp headache in response to cold exposure, especially cold foods or fluids; commonly known as "brain freeze" or "ice cream headache."
+External Compression Headache
+
+Symptoms: Headache caused by external pressure on the head, such as from tight headwear or goggles.
+Nummular Headache
+
+Symptoms: Localized headache that affects a small rounded or elliptical area of the scalp, often described as a coin-shaped area of pain.
+Primary Exercise Headache
+
+Symptoms: Pulsating headache occurring during or after physical exercise, lasting from 5 minutes to 48 hours; can be bilateral.
+Primary Headaches Associated with Sexual Activity
+
+Symptoms: Headaches associated with sexual activity, varying in intensity and often increasing with sexual excitement; can occur before, during, or after orgasm.
+Hypnic Headache
+
+Symptoms: Headache occurring during sleep that awakens the person, often at the same time each night, with no other underlying disorder identified.
+Primary Thunderclap Headache
+
+Symptoms: Extremely severe headache that reaches its peak intensity within 60 seconds, often without a clear trigger.
+Cardiac Cephalalgia
+
+Symptoms: Headache associated with heart disease, often occurring during episodes of angina or myocardial infarction; pain can resemble migraine or cluster headaches.
+Headaches Attributable to Ischemic Stroke or Transient Ischemic Attack (TIA)
+
+Symptoms: Headache occurring at the onset of a stroke or TIA, which can be accompanied by other symptoms such as weakness, difficulty speaking, and visual problems.
+Spontaneous Low Cerebrospinal Fluid (CSF) Pressure Headaches
+
+Symptoms: Headaches that worsen when standing or sitting and improve when lying down, possibly accompanied by neck stiffness, tinnitus, hearing changes, and photophobia.
+Headache Attributable to Intracranial Hypertension
+
+Symptoms: Persistent headache with or without visual symptoms, worsened by coughing or straining, in the context of increased intracranial pressure.
+Headache Attributable to Intracranial Hypotension
+
+Symptoms: Orthostatic headache that improves when lying down, possibly following a lumbar puncture or spontaneous cerebrospinal fluid leak.
+Headache Attributable to Chiari Malformation
+
+Symptoms: Headache, especially in the back of the head, that may be worsened by coughing, sneezing, or straining.
+Cough Headache
+
+Symptoms: Headache precipitated by coughing, straining, or other Valsalva-like maneuvers, usually lasting from seconds to a few minutes.
+Bending Headache
+
+Symptoms: Headache triggered by bending over, often associated with increased intracranial pressure or sinusitis.
+Headache Attributable to Giant Cell Arteritis
+
+Symptoms: New headache in an older individual, often with scalp tenderness, jaw claudication, and visual symptoms, in the context of elevated inflammatory markers.
+Headache Attributable to Hypothyroidism
+
+Symptoms: Headache associated with features of hypothyroidism, such as fatigue, weight gain, cold intolerance, and constipation.
+Coital Cephalalgia (Sex Headaches)
+
+Symptoms: Headache that begins during sexual activity and increases in intensity, reaching a peak at orgasm; can be dull or throbbing.
+Headache Attributable to Arterial Hypertension
+- Symptoms: Headache associated with significant elevations in blood pressure, typically bilateral, pulsating, and aggravated by physical activity.
+
+Benign Paroxysmal Positional Vertigo (BPPV)
+
+Dizziness due to head position changes; brief spinning sensations.
+Ménière's Disease
+
+Inner ear disorder causing vertigo, hearing loss, and tinnitus.
+Vestibular Neuritis
+
+Inflammation of the vestibular nerve leading to vertigo.
+Labyrinthitis
+
+Inner ear infection causing vertigo, hearing loss, and ear pain.
+Orthostatic Hypotension
+
+Drop in blood pressure upon standing, causing lightheadedness.
+Dehydration
+
+Lack of body fluids causing weakness and dizziness.
+Anemia
+
+Low red blood cell count causing fatigue and dizziness.
+Hypoglycemia
+
+Low blood sugar levels leading to dizziness and weakness.
+Hyperventilation
+
+Rapid breathing leading to dizziness and tingling in the limbs.
+Heart Arrhythmias
+
+Irregular heartbeats causing palpitations and dizziness.
+Heat Stroke and Heat Exhaustion
+
+Overheating of the body causing dizziness and confusion.
+Motion Sickness
+
+Nausea and dizziness triggered by movement.
+Migraine
+
+Severe headaches often accompanied by dizziness and nausea.
+Stroke
+
+Brain blood flow disruption causing dizziness and imbalance.
+Transient Ischemic Attack (TIA)
+
+Temporary stroke-like symptoms including dizziness.
+Multiple Sclerosis
+
+Central nervous system disease causing dizziness and lack of coordination.
+Parkinson's Disease
+
+Neurodegenerative disorder causing dizziness and balance issues.
+Brain Tumor
+
+Growth in the brain causing dizziness and headaches.
+Acoustic Neuroma
+
+Benign tumor on the vestibulocochlear nerve causing dizziness.
+Chronic Subjective Dizziness
+
+Persistent non-rotational dizziness without a specific cause.
+Panic Attacks and Panic Disorder
+
+Anxiety episodes causing dizziness and heart palpitations.
+Generalized Anxiety Disorder
+
+Chronic anxiety leading to dizziness and trembling.
+Depression
+
+Mental health disorder causing fatigue, dizziness, and sadness.
+Ear Infection
+
+Infections causing pressure and dizziness.
+Carbon Monoxide Poisoning
+
+Exposure to carbon monoxide leading to dizziness and weakness.
+Concussion
+
+Brain injury causing dizziness and confusion.
+Cervical Spondylosis
+
+Neck arthritis affecting balance and causing dizziness.
+Hypothyroidism
+
+Low thyroid hormone levels leading to dizziness and fatigue.
+Hyperthyroidism
+
+High thyroid hormone levels causing dizziness and weight loss.
+Diabetes
+
+Imbalance of blood sugar levels causing dizziness and thirst.
+Peripheral Neuropathy
+
+Nerve damage in extremities causing dizziness during movement.
+Fibromyalgia
+
+Chronic pain condition often accompanied by dizziness.
+Chronic Fatigue Syndrome
+
+Long-term fatigue condition causing dizziness and tiredness.
+Vertebrobasilar Insufficiency
+
+Reduced blood flow in the back of the brain causing dizziness.
+Atrial Fibrillation
+
+Irregular heart rhythm leading to dizziness and palpitations.
+Low Blood Pressure (Hypotension)
+
+Blood pressure drop causing dizziness and fainting.
+Dehydration
+
+Insufficient fluids causing dizziness and dry mouth.
+Inner Ear Disruption
+
+Problems with fluid or pressure in the inner ear causing dizziness.
+Labyrinthitis
+
+Inflammation of the inner ear labyrinth causing dizziness.
+Vestibular Migraine
+
+Migraine variant causing severe dizziness.
+Superior Canal Dehiscence Syndrome
+
+Opening in the bone overlying the inner ear causing dizziness.
+Perilymph Fistula
+
+Abnormal opening between the middle and inner ear causing dizziness.
+Ototoxicity
+
+Ear damage from medications causing dizziness and hearing loss.
+Mal de Debarquement Syndrome (MdDS)
+
+Persistent sensation of motion causing dizziness after travel.
+Iron Deficiency Anemia
+
+Low iron causing dizziness, fatigue, and pallor.
+Vitamin B12 Deficiency
+
+Lack of B12 causing dizziness, weakness, and confusion.
+Menopause
+
+Hormonal changes causing hot flashes, dizziness, and mood swings.
+Pregnancy
+
+Hormonal changes and blood volume increase causing dizziness.
+Postural Orthostatic Tachycardia Syndrome (POTS)
+
+Rapid heartbeat upon standing causing dizziness and fainting.
+Ménière's Disease
+
+Inner ear disorder causing vertigo, tinnitus, and hearing loss.
+BPPV
+
+Brief episodes of dizziness due to inner ear changes with head movement.
+Vestibular Schwannoma (Acoustic Neuroma)
+
+Benign tumor on the vestibulocochlear nerve causing dizziness.
+Psychogenic Dizziness
+
+Dizziness related to psychological factors like anxiety or depression.
+Epilepsy
+
+Seizure disorder that can cause dizziness and confusion.
+Temporal Lobe Seizures
+
+Seizures originating in the temporal lobe causing dizziness and unusual sensations.
+Cerebellar Ataxia
+
+Damage to the cerebellum causing dizziness and coordination problems.
+Cerebral Atrophy
+
+Loss of neurons in the brain causing dizziness and cognitive decline.
+Normal Pressure Hydrocephalus
+
+Accumulation of cerebrospinal fluid in the brain ventricles causing dizziness and gait disturbance.
+Postural Hypotension
+
+Drop in blood pressure when standing causing dizziness.
+Blood Circulation Disorders
+
+Conditions affecting blood flow causing dizziness and fatigue.
+Autonomic Dysfunction
+
+Malfunction of the autonomic nervous system causing dizziness and instability.
+Migrainous Vertigo
+
+Vertigo associated with migraine headaches.
+Drug-Induced Vertigo
+
+Dizziness as a side effect of medications.
+Visual Vertigo
+
+Dizziness triggered by visual stimuli, such as moving patterns.
+Orthostatic Intolerance
+
+Inability to tolerate changes in body position without dizziness or fainting.
+Barotrauma
+
+Injury caused by pressure changes affecting the ear and causing dizziness.
+Cervical Vertigo
+
+Dizziness associated with neck movement or cervical spine problems.
+Psychiatric Disorders
+
+Mental health conditions like panic disorder or anxiety causing dizziness.
+Bilateral Vestibular Hypofunction
+
+Reduced function in both inner ears causing dizziness and imbalance.
+Otosclerosis
+
+Abnormal bone growth in the ear causing hearing loss and dizziness.
+Perimenopause
+
+Transitional phase before menopause causing hormonal changes and dizziness.
+Electrolyte Imbalance
+
+Abnormal levels of electrolytes in the blood causing dizziness and weakness.
+Age-Related Dizziness
+
+Dizziness and balance problems associated with aging.
+Alcohol Intoxication
+
+Excessive alcohol consumption causing dizziness and disorientation.
+Toxin Exposure
+
+Exposure to toxic substances causing dizziness and other symptoms.
+Chronic Ear Infections
+
+Repeated infections causing pressure changes and dizziness.
+Cogan's Syndrome
+
+Rare autoimmune disorder affecting the eyes and inner ears, causing dizziness and vision problems.
+Autoimmune Inner Ear Disease
+
+The immune system attacks the inner ear, leading to hearing loss and dizziness.
+Lyme Disease
+
+Tick-borne illness causing a wide range of symptoms, including dizziness.
+Syphilis
+
+Bacterial infection that can affect the nervous system and cause dizziness.
+HIV/AIDS
+
+Viral infection that can affect the nervous system and cause dizziness.
+Guillain-Barré Syndrome
+
+Autoimmune disorder causing muscle weakness and potentially dizziness.
+Neurocardiogenic Syncope (Vasovagal Syncope)
+
+Fainting episodes due to a sudden drop in heart rate and blood pressure, causing dizziness.
+Vascular Vertigo
+
+Dizziness due to blood vessel problems affecting the brain or inner ear.
+Cervicogenic Dizziness
+
+Dizziness originating from neck issues, such as whiplash or cervical spondylosis.
+Allergic Rhinitis
+
+Nasal allergies causing congestion, which can lead to pressure changes and dizziness.
+Aortic Stenosis
+
+Narrowing of the aortic valve in the heart causing dizziness, especially during exertion.
+Cardiomyopathy
+
+Diseases of the heart muscle affecting its ability to pump blood, causing dizziness.
+Endocrine Disorders
+
+Disorders affecting hormone-producing glands, like the thyroid, can cause dizziness.
+Hyperventilation Syndrome
+
+Rapid or deep breathing causing dizziness, tingling, and other symptoms.
+Insulinoma
+
+A tumor in the pancreas causing low blood sugar levels and dizziness.
+Mastoiditis
+
+Infection of the mastoid bone behind the ear causing pain, fever, and dizziness.
+Myocardial Infarction (Heart Attack)
+
+Blockage of blood flow to the heart causing chest pain, shortness of breath, and possibly dizziness.
+Neurological Infections
+
+Infections affecting the brain or spinal cord, such as meningitis or encephalitis, can cause dizziness.
+Ocular Migraine
+
+Migraine variant with visual disturbances that can include dizziness.
+Patent Foramen Ovale
+
+A hole in the heart that didn't close properly after birth, potentially causing dizziness.
+Pericarditis
+
+Inflammation of the sac surrounding the heart causing chest pain and potentially dizziness.
+Polycythemia Vera
+
+A blood disorder causing increased blood viscosity, leading to dizziness and headaches.
+Postprandial Hypotension
+
+Drop in blood pressure after eating causing dizziness and weakness.
+Ramsay Hunt Syndrome
+- Reactivation of the varicella-zoster virus in a facial nerve, causing ear pain, facial paralysis, and dizziness.
+
